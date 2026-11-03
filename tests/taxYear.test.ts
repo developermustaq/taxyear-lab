@@ -15,6 +15,10 @@ describe("taxYear", () => {
     expect(taxYear(new Date("2026-04-06"))).toBe("2026/27");
   });
 
+  it("keeps 5 April in the old tax year", () => {
+    expect(taxYear(new Date("2026-04-05"))).toBe("2025/26");
+  });
+
   it("pads the end year", () => {
     expect(taxYear(new Date("2008-05-01"))).toBe("2008/09");
   });
