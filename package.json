@@ -1,0 +1,24 @@
+{
+  "name": "taxyear-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "One-bug sandbox for the AI Engineering Masterclass. Synthetic data only.",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "logs:generate": "node scripts/make-log.mjs",
+    "mcp": "node mcp/tax-calendar.mjs",
+    "year": "node --experimental-strip-types --no-warnings scripts/year.mjs",
+    "compare:haystack": "node scripts/compare.mjs bench/recorded/A-read-whole-log.json bench/recorded/B-search-error-lines.json",
+    "compare:agents": "node scripts/compare.mjs bench/recorded/one-agent.json bench/recorded/three-agents.json"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.9.0",
+    "vitest": "^3.2.0"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "zod": "^4.6.7"
+  }
+}

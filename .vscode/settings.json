@@ -1,0 +1,6 @@
+{
+  "editor.fontSize": 17,
+  "editor.minimap.enabled": false,
+  "terminal.integrated.fontSize": 15,
+  "files.exclude": { "node_modules": true, "package-lock.json": true }
+}

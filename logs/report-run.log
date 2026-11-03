@@ -1,0 +1,2000 @@
+2026-04-06T02:00:00.000Z INFO  cache hit key=rates:0
+2026-04-06T02:00:01.500Z DEBUG gc pause 0.87ms
+2026-04-06T02:00:03.000Z DEBUG http GET /health 200 7.6ms
+2026-04-06T02:00:04.500Z WARN  slow query report_totals 731ms (retrying not needed)
+2026-04-06T02:00:06.000Z INFO  Client A totals recomputed
+2026-04-06T02:00:07.500Z INFO  Client B totals recomputed
+2026-04-06T02:00:09.000Z WARN  slow query report_totals 873ms (retrying not needed)
+2026-04-06T02:00:10.500Z WARN  slow query report_totals 926ms (retrying not needed)
+2026-04-06T02:00:12.000Z DEBUG http GET /health 200 4.4ms
+2026-04-06T02:00:13.500Z INFO  Client B totals recomputed
+2026-04-06T02:00:15.000Z INFO  Client C totals recomputed
+2026-04-06T02:00:16.500Z INFO  cache hit key=rates:11
+2026-04-06T02:00:18.000Z INFO  Client A totals recomputed
+2026-04-06T02:00:19.500Z INFO  loaded payment batch=1013 rows=47
+2026-04-06T02:00:21.000Z INFO  Client C totals recomputed
+2026-04-06T02:00:22.500Z INFO  cache hit key=rates:15
+2026-04-06T02:00:24.000Z WARN  slow query report_totals 969ms (retrying not needed)
+2026-04-06T02:00:25.500Z INFO  Client B totals recomputed
+2026-04-06T02:00:27.000Z WARN  slow query report_totals 830ms (retrying not needed)
+2026-04-06T02:00:28.500Z DEBUG gc pause 2.73ms
+2026-04-06T02:00:30.000Z INFO  loaded payment batch=1020 rows=17
+2026-04-06T02:00:31.500Z DEBUG gc pause 1.00ms
+2026-04-06T02:00:33.000Z INFO  cache hit key=rates:22
+2026-04-06T02:00:34.500Z DEBUG http GET /health 200 4.9ms
+2026-04-06T02:00:36.000Z DEBUG http GET /health 200 9.4ms
+2026-04-06T02:00:37.500Z WARN  slow query report_totals 891ms (retrying not needed)
+2026-04-06T02:00:39.000Z DEBUG gc pause 0.18ms
+2026-04-06T02:00:40.500Z DEBUG http GET /health 200 6.0ms
+2026-04-06T02:00:42.000Z WARN  slow query report_totals 768ms (retrying not needed)
+2026-04-06T02:00:43.500Z DEBUG http GET /health 200 9.2ms
+2026-04-06T02:00:45.000Z INFO  cache hit key=rates:30
+2026-04-06T02:00:46.500Z INFO  loaded payment batch=1031 rows=18
+2026-04-06T02:00:48.000Z WARN  slow query report_totals 969ms (retrying not needed)
+2026-04-06T02:00:49.500Z WARN  slow query report_totals 666ms (retrying not needed)
+2026-04-06T02:00:51.000Z INFO  loaded payment batch=1034 rows=15
+2026-04-06T02:00:52.500Z INFO  loaded payment batch=1035 rows=22
+2026-04-06T02:00:54.000Z DEBUG http GET /health 200 5.8ms
+2026-04-06T02:00:55.500Z WARN  slow query report_totals 693ms (retrying not needed)
+2026-04-06T02:00:57.000Z DEBUG gc pause 1.37ms
+2026-04-06T02:00:58.500Z DEBUG gc pause 1.91ms
+2026-04-06T02:01:00.000Z WARN  slow query report_totals 806ms (retrying not needed)
+2026-04-06T02:01:01.500Z WARN  slow query report_totals 875ms (retrying not needed)
+2026-04-06T02:01:03.000Z DEBUG gc pause 1.19ms
+2026-04-06T02:01:04.500Z INFO  Client D totals recomputed
+2026-04-06T02:01:06.000Z DEBUG http GET /health 200 6.3ms
+2026-04-06T02:01:07.500Z INFO  loaded payment batch=1005 rows=17
+2026-04-06T02:01:09.000Z INFO  loaded payment batch=1006 rows=40
+2026-04-06T02:01:10.500Z DEBUG gc pause 0.33ms
+2026-04-06T02:01:12.000Z INFO  Client A totals recomputed
+2026-04-06T02:01:13.500Z INFO  cache hit key=rates:49
+2026-04-06T02:01:15.000Z INFO  loaded payment batch=1010 rows=8
+2026-04-06T02:01:16.500Z INFO  cache hit key=rates:51
+2026-04-06T02:01:18.000Z DEBUG gc pause 0.66ms
+2026-04-06T02:01:19.500Z WARN  slow query report_totals 657ms (retrying not needed)
+2026-04-06T02:01:21.000Z INFO  loaded payment batch=1014 rows=30
+2026-04-06T02:01:22.500Z INFO  cache hit key=rates:55
+2026-04-06T02:01:24.000Z DEBUG gc pause 2.65ms
+2026-04-06T02:01:25.500Z DEBUG gc pause 2.66ms
+2026-04-06T02:01:27.000Z DEBUG gc pause 2.28ms
+2026-04-06T02:01:28.500Z DEBUG http GET /health 200 1.1ms
+2026-04-06T02:01:30.000Z DEBUG http GET /health 200 1.7ms
+2026-04-06T02:01:31.500Z INFO  cache hit key=rates:61
+2026-04-06T02:01:33.000Z WARN  slow query report_totals 692ms (retrying not needed)
+2026-04-06T02:01:34.500Z INFO  Client D totals recomputed
+2026-04-06T02:01:36.000Z INFO  loaded payment batch=1024 rows=35
+2026-04-06T02:01:37.500Z DEBUG http GET /health 200 8.9ms
+2026-04-06T02:01:39.000Z DEBUG http GET /health 200 4.4ms
+2026-04-06T02:01:40.500Z DEBUG gc pause 0.36ms
+2026-04-06T02:01:42.000Z INFO  loaded payment batch=1028 rows=1
+2026-04-06T02:01:43.500Z DEBUG gc pause 1.91ms
+2026-04-06T02:01:45.000Z DEBUG gc pause 0.06ms
+2026-04-06T02:01:46.500Z DEBUG gc pause 0.56ms
+2026-04-06T02:01:48.000Z DEBUG gc pause 1.70ms
+2026-04-06T02:01:49.500Z INFO  Client B totals recomputed
+2026-04-06T02:01:51.000Z DEBUG http GET /health 200 3.0ms
+2026-04-06T02:01:52.500Z DEBUG http GET /health 200 6.1ms
+2026-04-06T02:01:54.000Z INFO  cache hit key=rates:76
+2026-04-06T02:01:55.500Z INFO  Client B totals recomputed
+2026-04-06T02:01:57.000Z INFO  Client C totals recomputed
+2026-04-06T02:01:58.500Z INFO  Client D totals recomputed
+2026-04-06T02:02:00.000Z INFO  loaded payment batch=1000 rows=2
+2026-04-06T02:02:01.500Z INFO  cache hit key=rates:81
+2026-04-06T02:02:03.000Z DEBUG gc pause 0.39ms
+2026-04-06T02:02:04.500Z INFO  Client D totals recomputed
+2026-04-06T02:02:06.000Z DEBUG gc pause 0.11ms
+2026-04-06T02:02:07.500Z DEBUG gc pause 2.58ms
+2026-04-06T02:02:09.000Z DEBUG gc pause 2.86ms
+2026-04-06T02:02:10.500Z INFO  Client D totals recomputed
+2026-04-06T02:02:12.000Z INFO  loaded payment batch=1008 rows=13
+2026-04-06T02:02:13.500Z INFO  Client B totals recomputed
+2026-04-06T02:02:15.000Z DEBUG gc pause 1.19ms
+2026-04-06T02:02:16.500Z DEBUG http GET /health 200 4.6ms
+2026-04-06T02:02:18.000Z DEBUG gc pause 1.68ms
+2026-04-06T02:02:19.500Z INFO  loaded payment batch=1013 rows=32
+2026-04-06T02:02:21.000Z INFO  Client C totals recomputed
+2026-04-06T02:02:22.500Z INFO  loaded payment batch=1015 rows=37
+2026-04-06T02:02:24.000Z INFO  loaded payment batch=1016 rows=10
+2026-04-06T02:02:25.500Z DEBUG http GET /health 200 9.9ms
+2026-04-06T02:02:27.000Z DEBUG gc pause 1.90ms
+2026-04-06T02:02:28.500Z DEBUG gc pause 2.75ms
+2026-04-06T02:02:30.000Z DEBUG http GET /health 200 6.8ms
+2026-04-06T02:02:31.500Z INFO  cache hit key=rates:4
+2026-04-06T02:02:33.000Z INFO  loaded payment batch=1022 rows=28
+2026-04-06T02:02:34.500Z INFO  Client D totals recomputed
+2026-04-06T02:02:36.000Z DEBUG gc pause 1.45ms
+2026-04-06T02:02:37.500Z DEBUG http GET /health 200 5.0ms
+2026-04-06T02:02:39.000Z INFO  cache hit key=rates:9
+2026-04-06T02:02:40.500Z WARN  slow query report_totals 808ms (retrying not needed)
+2026-04-06T02:02:42.000Z WARN  slow query report_totals 802ms (retrying not needed)
+2026-04-06T02:02:43.500Z INFO  Client B totals recomputed
+2026-04-06T02:02:45.000Z INFO  loaded payment batch=1030 rows=38
+2026-04-06T02:02:46.500Z INFO  cache hit key=rates:14
+2026-04-06T02:02:48.000Z DEBUG http GET /health 200 5.9ms
+2026-04-06T02:02:49.500Z DEBUG http GET /health 200 7.5ms
+2026-04-06T02:02:51.000Z DEBUG http GET /health 200 3.1ms
+2026-04-06T02:02:52.500Z WARN  slow query report_totals 771ms (retrying not needed)
+2026-04-06T02:02:54.000Z INFO  cache hit key=rates:19
+2026-04-06T02:02:55.500Z INFO  Client B totals recomputed
+2026-04-06T02:02:57.000Z INFO  Client C totals recomputed
+2026-04-06T02:02:58.500Z DEBUG gc pause 2.73ms
+2026-04-06T02:03:00.000Z INFO  Client A totals recomputed
+2026-04-06T02:03:01.500Z DEBUG gc pause 0.08ms
+2026-04-06T02:03:03.000Z INFO  Client C totals recomputed
+2026-04-06T02:03:04.500Z WARN  slow query report_totals 889ms (retrying not needed)
+2026-04-06T02:03:06.000Z DEBUG gc pause 0.11ms
+2026-04-06T02:03:07.500Z INFO  cache hit key=rates:28
+2026-04-06T02:03:09.000Z INFO  cache hit key=rates:29
+2026-04-06T02:03:10.500Z INFO  cache hit key=rates:30
+2026-04-06T02:03:12.000Z INFO  cache hit key=rates:31
+2026-04-06T02:03:13.500Z INFO  cache hit key=rates:32
+2026-04-06T02:03:15.000Z WARN  slow query report_totals 978ms (retrying not needed)
+2026-04-06T02:03:16.500Z DEBUG http GET /health 200 2.2ms
+2026-04-06T02:03:18.000Z DEBUG http GET /health 200 7.1ms
+2026-04-06T02:03:19.500Z DEBUG http GET /health 200 5.1ms
+2026-04-06T02:03:21.000Z DEBUG gc pause 1.27ms
+2026-04-06T02:03:22.500Z INFO  Client D totals recomputed
+2026-04-06T02:03:24.000Z INFO  Client A totals recomputed
+2026-04-06T02:03:25.500Z INFO  loaded payment batch=1017 rows=21
+2026-04-06T02:03:27.000Z INFO  cache hit key=rates:41
+2026-04-06T02:03:28.500Z DEBUG http GET /health 200 8.3ms
+2026-04-06T02:03:30.000Z DEBUG gc pause 0.46ms
+2026-04-06T02:03:31.500Z DEBUG gc pause 1.53ms
+2026-04-06T02:03:33.000Z INFO  cache hit key=rates:45
+2026-04-06T02:03:34.500Z DEBUG http GET /health 200 6.4ms
+2026-04-06T02:03:36.000Z DEBUG http GET /health 200 1.7ms
+2026-04-06T02:03:37.500Z DEBUG http GET /health 200 6.8ms
+2026-04-06T02:03:39.000Z WARN  slow query report_totals 792ms (retrying not needed)
+2026-04-06T02:03:40.500Z DEBUG gc pause 0.23ms
+2026-04-06T02:03:42.000Z INFO  loaded payment batch=1028 rows=16
+2026-04-06T02:03:43.500Z INFO  cache hit key=rates:52
+2026-04-06T02:03:45.000Z INFO  cache hit key=rates:53
+2026-04-06T02:03:46.500Z INFO  loaded payment batch=1031 rows=5
+2026-04-06T02:03:48.000Z DEBUG http GET /health 200 9.3ms
+2026-04-06T02:03:49.500Z INFO  Client B totals recomputed
+2026-04-06T02:03:51.000Z INFO  Client C totals recomputed
+2026-04-06T02:03:52.500Z INFO  loaded payment batch=1035 rows=43
+2026-04-06T02:03:54.000Z DEBUG gc pause 2.40ms
+2026-04-06T02:03:55.500Z WARN  slow query report_totals 828ms (retrying not needed)
+2026-04-06T02:03:57.000Z INFO  loaded payment batch=1038 rows=21
+2026-04-06T02:03:58.500Z INFO  loaded payment batch=1039 rows=25
+2026-04-06T02:04:00.000Z WARN  slow query report_totals 888ms (retrying not needed)
+2026-04-06T02:04:01.500Z WARN  slow query report_totals 853ms (retrying not needed)
+2026-04-06T02:04:03.000Z INFO  Client C totals recomputed
+2026-04-06T02:04:04.500Z DEBUG gc pause 2.54ms
+2026-04-06T02:04:06.000Z DEBUG gc pause 1.31ms
+2026-04-06T02:04:07.500Z INFO  loaded payment batch=1005 rows=48
+2026-04-06T02:04:09.000Z DEBUG gc pause 1.07ms
+2026-04-06T02:04:10.500Z INFO  cache hit key=rates:70
+2026-04-06T02:04:12.000Z INFO  loaded payment batch=1008 rows=45
+2026-04-06T02:04:13.500Z INFO  Client B totals recomputed
+2026-04-06T02:04:15.000Z INFO  Client C totals recomputed
+2026-04-06T02:04:16.500Z DEBUG gc pause 2.36ms
+2026-04-06T02:04:18.000Z DEBUG http GET /health 200 3.1ms
+2026-04-06T02:04:19.500Z INFO  Client B totals recomputed
+2026-04-06T02:04:21.000Z INFO  cache hit key=rates:77
+2026-04-06T02:04:22.500Z DEBUG gc pause 2.40ms
+2026-04-06T02:04:24.000Z WARN  slow query report_totals 884ms (retrying not needed)
+2026-04-06T02:04:25.500Z WARN  slow query report_totals 777ms (retrying not needed)
+2026-04-06T02:04:27.000Z DEBUG gc pause 1.69ms
+2026-04-06T02:04:28.500Z DEBUG gc pause 0.81ms
+2026-04-06T02:04:30.000Z INFO  Client A totals recomputed
+2026-04-06T02:04:31.500Z INFO  loaded payment batch=1021 rows=20
+2026-04-06T02:04:33.000Z DEBUG http GET /health 200 6.3ms
+2026-04-06T02:04:34.500Z DEBUG http GET /health 200 9.1ms
+2026-04-06T02:04:36.000Z INFO  Client A totals recomputed
+2026-04-06T02:04:37.500Z INFO  loaded payment batch=1025 rows=35
+2026-04-06T02:04:39.000Z DEBUG gc pause 0.35ms
+2026-04-06T02:04:40.500Z DEBUG http GET /health 200 9.3ms
+2026-04-06T02:04:42.000Z INFO  cache hit key=rates:91
+2026-04-06T02:04:43.500Z INFO  cache hit key=rates:92
+2026-04-06T02:04:45.000Z INFO  loaded payment batch=1030 rows=2
+2026-04-06T02:04:46.500Z INFO  Client D totals recomputed
+2026-04-06T02:04:48.000Z DEBUG gc pause 0.52ms
+2026-04-06T02:04:49.500Z DEBUG http GET /health 200 9.5ms
+2026-04-06T02:04:51.000Z INFO  Client C totals recomputed
+2026-04-06T02:04:52.500Z DEBUG http GET /health 200 2.1ms
+2026-04-06T02:04:54.000Z WARN  slow query report_totals 606ms (retrying not needed)
+2026-04-06T02:04:55.500Z INFO  Client B totals recomputed
+2026-04-06T02:04:57.000Z WARN  slow query report_totals 900ms (retrying not needed)
+2026-04-06T02:04:58.500Z INFO  cache hit key=rates:5
+2026-04-06T02:05:00.000Z DEBUG http GET /health 200 7.4ms
+2026-04-06T02:05:01.500Z DEBUG gc pause 1.64ms
+2026-04-06T02:05:03.000Z WARN  slow query report_totals 910ms (retrying not needed)
+2026-04-06T02:05:04.500Z INFO  Client D totals recomputed
+2026-04-06T02:05:06.000Z INFO  Client A totals recomputed
+2026-04-06T02:05:07.500Z WARN  slow query report_totals 640ms (retrying not needed)
+2026-04-06T02:05:09.000Z INFO  cache hit key=rates:12
+2026-04-06T02:05:10.500Z WARN  slow query report_totals 689ms (retrying not needed)
+2026-04-06T02:05:12.000Z WARN  slow query report_totals 700ms (retrying not needed)
+2026-04-06T02:05:13.500Z DEBUG http GET /health 200 6.6ms
+2026-04-06T02:05:15.000Z WARN  slow query report_totals 925ms (retrying not needed)
+2026-04-06T02:05:16.500Z DEBUG http GET /health 200 9.1ms
+2026-04-06T02:05:18.000Z INFO  cache hit key=rates:18
+2026-04-06T02:05:19.500Z INFO  Client B totals recomputed
+2026-04-06T02:05:21.000Z INFO  loaded payment batch=1014 rows=40
+2026-04-06T02:05:22.500Z WARN  slow query report_totals 921ms (retrying not needed)
+2026-04-06T02:05:24.000Z INFO  cache hit key=rates:22
+2026-04-06T02:05:25.500Z DEBUG gc pause 1.50ms
+2026-04-06T02:05:27.000Z INFO  Client C totals recomputed
+2026-04-06T02:05:28.500Z INFO  loaded payment batch=1019 rows=44
+2026-04-06T02:05:30.000Z INFO  Client A totals recomputed
+2026-04-06T02:05:31.500Z INFO  Client B totals recomputed
+2026-04-06T02:05:33.000Z DEBUG gc pause 2.57ms
+2026-04-06T02:05:34.500Z DEBUG http GET /health 200 7.5ms
+2026-04-06T02:05:36.000Z INFO  cache hit key=rates:30
+2026-04-06T02:05:37.500Z INFO  cache hit key=rates:31
+2026-04-06T02:05:39.000Z DEBUG gc pause 2.86ms
+2026-04-06T02:05:40.500Z INFO  cache hit key=rates:33
+2026-04-06T02:05:42.000Z INFO  cache hit key=rates:34
+2026-04-06T02:05:43.500Z DEBUG http GET /health 200 9.5ms
+2026-04-06T02:05:45.000Z DEBUG gc pause 2.87ms
+2026-04-06T02:05:46.500Z DEBUG http GET /health 200 2.8ms
+2026-04-06T02:05:48.000Z INFO  cache hit key=rates:38
+2026-04-06T02:05:49.500Z INFO  loaded payment batch=1033 rows=28
+2026-04-06T02:05:51.000Z INFO  cache hit key=rates:40
+2026-04-06T02:05:52.500Z DEBUG http GET /health 200 5.3ms
+2026-04-06T02:05:54.000Z DEBUG http GET /health 200 1.5ms
+2026-04-06T02:05:55.500Z INFO  cache hit key=rates:43
+2026-04-06T02:05:57.000Z INFO  cache hit key=rates:44
+2026-04-06T02:05:58.500Z WARN  slow query report_totals 787ms (retrying not needed)
+2026-04-06T02:06:00.000Z INFO  Client A totals recomputed
+2026-04-06T02:06:01.500Z INFO  Client B totals recomputed
+2026-04-06T02:06:03.000Z WARN  slow query report_totals 880ms (retrying not needed)
+2026-04-06T02:06:04.500Z INFO  loaded payment batch=1003 rows=31
+2026-04-06T02:06:06.000Z DEBUG gc pause 2.31ms
+2026-04-06T02:06:07.500Z DEBUG gc pause 2.13ms
+2026-04-06T02:06:09.000Z WARN  slow query report_totals 921ms (retrying not needed)
+2026-04-06T02:06:10.500Z DEBUG http GET /health 200 1.6ms
+2026-04-06T02:06:12.000Z INFO  Client A totals recomputed
+2026-04-06T02:06:13.500Z WARN  slow query report_totals 772ms (retrying not needed)
+2026-04-06T02:06:15.000Z WARN  slow query report_totals 754ms (retrying not needed)
+2026-04-06T02:06:16.500Z INFO  loaded payment batch=1011 rows=7
+2026-04-06T02:06:18.000Z INFO  cache hit key=rates:58
+2026-04-06T02:06:19.500Z INFO  cache hit key=rates:59
+2026-04-06T02:06:21.000Z INFO  loaded payment batch=1014 rows=18
+2026-04-06T02:06:22.500Z DEBUG http GET /health 200 6.8ms
+2026-04-06T02:06:24.000Z INFO  cache hit key=rates:62
+2026-04-06T02:06:25.500Z INFO  cache hit key=rates:63
+2026-04-06T02:06:27.000Z INFO  cache hit key=rates:64
+2026-04-06T02:06:28.500Z DEBUG gc pause 2.61ms
+2026-04-06T02:06:30.000Z INFO  cache hit key=rates:66
+2026-04-06T02:06:31.500Z INFO  Client B totals recomputed
+2026-04-06T02:06:33.000Z DEBUG http GET /health 200 4.6ms
+2026-04-06T02:06:34.500Z DEBUG gc pause 2.39ms
+2026-04-06T02:06:36.000Z INFO  cache hit key=rates:70
+2026-04-06T02:06:37.500Z DEBUG gc pause 0.62ms
+2026-04-06T02:06:39.000Z WARN  slow query report_totals 771ms (retrying not needed)
+2026-04-06T02:06:40.500Z INFO  cache hit key=rates:73
+2026-04-06T02:06:42.000Z DEBUG http GET /health 200 7.8ms
+2026-04-06T02:06:43.500Z INFO  Client B totals recomputed
+2026-04-06T02:06:45.000Z DEBUG http GET /health 200 8.7ms
+2026-04-06T02:06:46.500Z INFO  Client D totals recomputed
+2026-04-06T02:06:48.000Z DEBUG http GET /health 200 5.1ms
+2026-04-06T02:06:49.500Z DEBUG http GET /health 200 3.3ms
+2026-04-06T02:06:51.000Z DEBUG gc pause 2.61ms
+2026-04-06T02:06:52.500Z INFO  Client D totals recomputed
+2026-04-06T02:06:54.000Z INFO  loaded payment batch=1036 rows=44
+2026-04-06T02:06:55.500Z INFO  Client B totals recomputed
+2026-04-06T02:06:57.000Z INFO  Client C totals recomputed
+2026-04-06T02:06:58.500Z INFO  Client D totals recomputed
+2026-04-06T02:07:00.000Z DEBUG gc pause 2.07ms
+2026-04-06T02:07:01.500Z DEBUG http GET /health 200 7.4ms
+2026-04-06T02:07:03.000Z DEBUG http GET /health 200 8.8ms
+2026-04-06T02:07:04.500Z INFO  cache hit key=rates:89
+2026-04-06T02:07:06.000Z DEBUG gc pause 1.98ms
+2026-04-06T02:07:07.500Z INFO  Client B totals recomputed
+2026-04-06T02:07:09.000Z INFO  loaded payment batch=1006 rows=40
+2026-04-06T02:07:10.500Z INFO  Client D totals recomputed
+2026-04-06T02:07:12.000Z INFO  cache hit key=rates:94
+2026-04-06T02:07:13.500Z DEBUG http GET /health 200 2.8ms
+2026-04-06T02:07:15.000Z INFO  cache hit key=rates:96
+2026-04-06T02:07:16.500Z WARN  slow query report_totals 924ms (retrying not needed)
+2026-04-06T02:07:18.000Z WARN  slow query report_totals 941ms (retrying not needed)
+2026-04-06T02:07:19.500Z DEBUG gc pause 2.44ms
+2026-04-06T02:07:21.000Z DEBUG http GET /health 200 6.1ms
+2026-04-06T02:07:22.500Z INFO  loaded payment batch=1015 rows=20
+2026-04-06T02:07:24.000Z WARN  slow query report_totals 900ms (retrying not needed)
+2026-04-06T02:07:25.500Z WARN  slow query report_totals 753ms (retrying not needed)
+2026-04-06T02:07:27.000Z INFO  loaded payment batch=1018 rows=13
+2026-04-06T02:07:28.500Z INFO  Client D totals recomputed
+2026-04-06T02:07:30.000Z INFO  Client A totals recomputed
+2026-04-06T02:07:31.500Z DEBUG http GET /health 200 3.3ms
+2026-04-06T02:07:33.000Z WARN  slow query report_totals 820ms (retrying not needed)
+2026-04-06T02:07:34.500Z DEBUG gc pause 1.71ms
+2026-04-06T02:07:36.000Z DEBUG http GET /health 200 6.4ms
+2026-04-06T02:07:37.500Z WARN  slow query report_totals 854ms (retrying not needed)
+2026-04-06T02:07:39.000Z WARN  slow query report_totals 664ms (retrying not needed)
+2026-04-06T02:07:40.500Z DEBUG http GET /health 200 2.1ms
+2026-04-06T02:07:42.000Z INFO  loaded payment batch=1028 rows=32
+2026-04-06T02:07:43.500Z DEBUG gc pause 1.93ms
+2026-04-06T02:07:45.000Z INFO  loaded payment batch=1030 rows=18
+2026-04-06T02:07:46.500Z INFO  loaded payment batch=1031 rows=7
+2026-04-06T02:07:48.000Z INFO  cache hit key=rates:21
+2026-04-06T02:07:49.500Z INFO  cache hit key=rates:22
+2026-04-06T02:07:51.000Z INFO  loaded payment batch=1034 rows=19
+2026-04-06T02:07:52.500Z INFO  cache hit key=rates:24
+2026-04-06T02:07:54.000Z WARN  slow query report_totals 761ms (retrying not needed)
+2026-04-06T02:07:55.500Z INFO  loaded payment batch=1037 rows=5
+2026-04-06T02:07:57.000Z DEBUG gc pause 0.82ms
+2026-04-06T02:07:58.500Z DEBUG http GET /health 200 2.1ms
+2026-04-06T02:08:00.000Z DEBUG http GET /health 200 4.9ms
+2026-04-06T02:08:01.500Z DEBUG http GET /health 200 6.5ms
+2026-04-06T02:08:03.000Z WARN  slow query report_totals 901ms (retrying not needed)
+2026-04-06T02:08:04.500Z INFO  Client D totals recomputed
+2026-04-06T02:08:06.000Z INFO  loaded payment batch=1004 rows=44
+2026-04-06T02:08:07.500Z INFO  Client B totals recomputed
+2026-04-06T02:08:09.000Z INFO  cache hit key=rates:35
+2026-04-06T02:08:10.500Z WARN  slow query report_totals 894ms (retrying not needed)
+2026-04-06T02:08:12.000Z DEBUG gc pause 1.74ms
+2026-04-06T02:08:13.500Z DEBUG gc pause 0.87ms
+2026-04-06T02:08:15.000Z DEBUG gc pause 0.11ms
+2026-04-06T02:08:16.500Z INFO  cache hit key=rates:40
+2026-04-06T02:08:18.000Z DEBUG http GET /health 200 8.7ms
+2026-04-06T02:08:19.500Z DEBUG gc pause 2.17ms
+2026-04-06T02:08:21.000Z WARN  slow query report_totals 695ms (retrying not needed)
+2026-04-06T02:08:22.500Z WARN  slow query report_totals 910ms (retrying not needed)
+2026-04-06T02:08:24.000Z DEBUG http GET /health 200 8.3ms
+2026-04-06T02:08:25.500Z INFO  Client B totals recomputed
+2026-04-06T02:08:27.000Z WARN  slow query report_totals 980ms (retrying not needed)
+2026-04-06T02:08:28.500Z DEBUG http GET /health 200 1.3ms
+2026-04-06T02:08:30.000Z INFO  Client A totals recomputed
+2026-04-06T02:08:31.500Z WARN  slow query report_totals 845ms (retrying not needed)
+2026-04-06T02:08:33.000Z INFO  Client C totals recomputed
+2026-04-06T02:08:34.500Z INFO  Client D totals recomputed
+2026-04-06T02:08:36.000Z INFO  cache hit key=rates:53
+2026-04-06T02:08:37.500Z INFO  Client B totals recomputed
+2026-04-06T02:08:39.000Z DEBUG gc pause 2.54ms
+2026-04-06T02:08:40.500Z INFO  Client D totals recomputed
+2026-04-06T02:08:42.000Z WARN  slow query report_totals 687ms (retrying not needed)
+2026-04-06T02:08:43.500Z WARN  slow query report_totals 826ms (retrying not needed)
+2026-04-06T02:08:45.000Z INFO  loaded payment batch=1030 rows=2
+2026-04-06T02:08:46.500Z DEBUG gc pause 1.96ms
+2026-04-06T02:08:48.000Z DEBUG gc pause 0.92ms
+2026-04-06T02:08:49.500Z INFO  Client B totals recomputed
+2026-04-06T02:08:51.000Z DEBUG gc pause 1.71ms
+2026-04-06T02:08:52.500Z WARN  slow query report_totals 679ms (retrying not needed)
+2026-04-06T02:08:54.000Z DEBUG http GET /health 200 5.0ms
+2026-04-06T02:08:55.500Z INFO  loaded payment batch=1037 rows=3
+2026-04-06T02:08:57.000Z WARN  slow query report_totals 912ms (retrying not needed)
+2026-04-06T02:08:58.500Z DEBUG gc pause 0.26ms
+2026-04-06T02:09:00.000Z DEBUG http GET /health 200 6.5ms
+2026-04-06T02:09:01.500Z INFO  loaded payment batch=1001 rows=16
+2026-04-06T02:09:03.000Z DEBUG http GET /health 200 1.7ms
+2026-04-06T02:09:04.500Z INFO  loaded payment batch=1003 rows=22
+2026-04-06T02:09:06.000Z WARN  slow query report_totals 801ms (retrying not needed)
+2026-04-06T02:09:07.500Z WARN  slow query report_totals 772ms (retrying not needed)
+2026-04-06T02:09:09.000Z WARN  slow query report_totals 959ms (retrying not needed)
+2026-04-06T02:09:10.500Z DEBUG gc pause 1.39ms
+2026-04-06T02:09:12.000Z INFO  Client A totals recomputed
+2026-04-06T02:09:13.500Z DEBUG gc pause 1.95ms
+2026-04-06T02:09:15.000Z INFO  loaded payment batch=1010 rows=32
+2026-04-06T02:09:16.500Z INFO  cache hit key=rates:80
+2026-04-06T02:09:18.000Z DEBUG http GET /health 200 1.3ms
+2026-04-06T02:09:19.500Z DEBUG gc pause 0.33ms
+2026-04-06T02:09:21.000Z DEBUG http GET /health 200 7.0ms
+2026-04-06T02:09:22.500Z DEBUG http GET /health 200 3.4ms
+2026-04-06T02:09:24.000Z INFO  cache hit key=rates:85
+2026-04-06T02:09:25.500Z INFO  Client B totals recomputed
+2026-04-06T02:09:27.000Z DEBUG http GET /health 200 6.6ms
+2026-04-06T02:09:28.500Z INFO  Client D totals recomputed
+2026-04-06T02:09:30.000Z INFO  cache hit key=rates:89
+2026-04-06T02:09:31.500Z INFO  Client B totals recomputed
+2026-04-06T02:09:33.000Z DEBUG gc pause 2.31ms
+2026-04-06T02:09:34.500Z DEBUG gc pause 0.22ms
+2026-04-06T02:09:36.000Z DEBUG http GET /health 200 1.3ms
+2026-04-06T02:09:37.500Z DEBUG gc pause 1.43ms
+2026-04-06T02:09:39.000Z DEBUG http GET /health 200 5.7ms
+2026-04-06T02:09:40.500Z DEBUG gc pause 2.12ms
+2026-04-06T02:09:42.000Z INFO  Client A totals recomputed
+2026-04-06T02:09:43.500Z INFO  cache hit key=rates:1
+2026-04-06T02:09:45.000Z INFO  cache hit key=rates:2
+2026-04-06T02:09:46.500Z WARN  slow query report_totals 899ms (retrying not needed)
+2026-04-06T02:09:48.000Z INFO  cache hit key=rates:4
+2026-04-06T02:09:49.500Z DEBUG http GET /health 200 4.6ms
+2026-04-06T02:09:51.000Z INFO  Client C totals recomputed
+2026-04-06T02:09:52.500Z INFO  Client D totals recomputed
+2026-04-06T02:09:54.000Z WARN  slow query report_totals 662ms (retrying not needed)
+2026-04-06T02:09:55.500Z DEBUG gc pause 2.99ms
+2026-04-06T02:09:57.000Z WARN  slow query report_totals 888ms (retrying not needed)
+2026-04-06T02:09:58.500Z INFO  cache hit key=rates:11
+2026-04-06T02:10:00.000Z DEBUG gc pause 0.48ms
+2026-04-06T02:10:01.500Z INFO  loaded payment batch=1001 rows=35
+2026-04-06T02:10:03.000Z INFO  loaded payment batch=1002 rows=24
+2026-04-06T02:10:04.500Z DEBUG gc pause 1.34ms
+2026-04-06T02:10:06.000Z WARN  slow query report_totals 864ms (retrying not needed)
+2026-04-06T02:10:07.500Z INFO  cache hit key=rates:17
+2026-04-06T02:10:09.000Z DEBUG http GET /health 200 2.7ms
+2026-04-06T02:10:10.500Z DEBUG gc pause 1.01ms
+2026-04-06T02:10:12.000Z DEBUG gc pause 1.62ms
+2026-04-06T02:10:13.500Z INFO  cache hit key=rates:21
+2026-04-06T02:10:15.000Z INFO  loaded payment batch=1010 rows=26
+2026-04-06T02:10:16.500Z INFO  cache hit key=rates:23
+2026-04-06T02:10:18.000Z WARN  slow query report_totals 927ms (retrying not needed)
+2026-04-06T02:10:19.500Z INFO  loaded payment batch=1013 rows=11
+2026-04-06T02:10:21.000Z INFO  cache hit key=rates:26
+2026-04-06T02:10:22.500Z WARN  slow query report_totals 774ms (retrying not needed)
+2026-04-06T02:10:24.000Z INFO  cache hit key=rates:28
+2026-04-06T02:10:25.500Z INFO  Client B totals recomputed
+2026-04-06T02:10:27.000Z INFO  cache hit key=rates:30
+2026-04-06T02:10:28.500Z DEBUG gc pause 2.16ms
+2026-04-06T02:10:30.000Z DEBUG gc pause 2.01ms
+2026-04-06T02:10:31.500Z INFO  Client B totals recomputed
+2026-04-06T02:10:33.000Z DEBUG gc pause 0.83ms
+2026-04-06T02:10:34.500Z INFO  Client D totals recomputed
+2026-04-06T02:10:36.000Z INFO  loaded payment batch=1024 rows=1
+2026-04-06T02:10:37.500Z INFO  cache hit key=rates:37
+2026-04-06T02:10:39.000Z INFO  cache hit key=rates:38
+2026-04-06T02:10:40.500Z INFO  cache hit key=rates:39
+2026-04-06T02:10:42.000Z WARN  slow query report_totals 647ms (retrying not needed)
+2026-04-06T02:10:43.500Z DEBUG http GET /health 200 4.3ms
+2026-04-06T02:10:45.000Z WARN  slow query report_totals 697ms (retrying not needed)
+2026-04-06T02:10:46.500Z DEBUG http GET /health 200 7.4ms
+2026-04-06T02:10:48.000Z INFO  Client A totals recomputed
+2026-04-06T02:10:49.500Z INFO  Client B totals recomputed
+2026-04-06T02:10:51.000Z DEBUG gc pause 0.54ms
+2026-04-06T02:10:52.500Z DEBUG http GET /health 200 5.9ms
+2026-04-06T02:10:54.000Z INFO  loaded payment batch=1036 rows=30
+2026-04-06T02:10:55.500Z INFO  loaded payment batch=1037 rows=28
+2026-04-06T02:10:57.000Z DEBUG gc pause 2.56ms
+2026-04-06T02:10:58.500Z INFO  loaded payment batch=1039 rows=18
+2026-04-06T02:11:00.000Z DEBUG gc pause 2.22ms
+2026-04-06T02:11:01.500Z DEBUG gc pause 0.72ms
+2026-04-06T02:11:03.000Z DEBUG gc pause 2.77ms
+2026-04-06T02:11:04.500Z INFO  Client D totals recomputed
+2026-04-06T02:11:06.000Z WARN  slow query report_totals 859ms (retrying not needed)
+2026-04-06T02:11:07.500Z DEBUG gc pause 0.55ms
+2026-04-06T02:11:09.000Z INFO  loaded payment batch=1006 rows=23
+2026-04-06T02:11:10.500Z INFO  Client D totals recomputed
+2026-04-06T02:11:12.000Z INFO  Client A totals recomputed
+2026-04-06T02:11:13.500Z INFO  Client B totals recomputed
+2026-04-06T02:11:15.000Z WARN  slow query report_totals 602ms (retrying not needed)
+2026-04-06T02:11:16.500Z DEBUG http GET /health 200 7.8ms
+2026-04-06T02:11:18.000Z WARN  slow query report_totals 613ms (retrying not needed)
+2026-04-06T02:11:19.500Z WARN  slow query report_totals 970ms (retrying not needed)
+2026-04-06T02:11:21.000Z INFO  cache hit key=rates:66
+2026-04-06T02:11:22.500Z DEBUG gc pause 2.00ms
+2026-04-06T02:11:24.000Z WARN  slow query report_totals 944ms (retrying not needed)
+2026-04-06T02:11:25.500Z DEBUG gc pause 2.75ms
+2026-04-06T02:11:27.000Z INFO  cache hit key=rates:70
+2026-04-06T02:11:28.500Z INFO  Client D totals recomputed
+2026-04-06T02:11:30.000Z INFO  loaded payment batch=1020 rows=35
+2026-04-06T02:11:31.500Z INFO  cache hit key=rates:73
+2026-04-06T02:11:33.000Z INFO  loaded payment batch=1022 rows=4
+2026-04-06T02:11:34.500Z DEBUG http GET /health 200 4.3ms
+2026-04-06T02:11:36.000Z DEBUG http GET /health 200 4.5ms
+2026-04-06T02:11:37.500Z INFO  cache hit key=rates:77
+2026-04-06T02:11:39.000Z INFO  loaded payment batch=1026 rows=21
+2026-04-06T02:11:40.500Z INFO  Client D totals recomputed
+2026-04-06T02:11:42.000Z INFO  Client A totals recomputed
+2026-04-06T02:11:43.500Z INFO  cache hit key=rates:81
+2026-04-06T02:11:45.000Z INFO  loaded payment batch=1030 rows=29
+2026-04-06T02:11:46.500Z WARN  slow query report_totals 654ms (retrying not needed)
+2026-04-06T02:11:48.000Z INFO  cache hit key=rates:84
+2026-04-06T02:11:49.500Z INFO  loaded payment batch=1033 rows=3
+2026-04-06T02:11:51.000Z DEBUG http GET /health 200 7.0ms
+2026-04-06T02:11:52.500Z DEBUG http GET /health 200 9.7ms
+2026-04-06T02:11:54.000Z DEBUG gc pause 1.68ms
+2026-04-06T02:11:55.500Z INFO  cache hit key=rates:89
+2026-04-06T02:11:57.000Z INFO  loaded payment batch=1038 rows=36
+2026-04-06T02:11:58.500Z DEBUG http GET /health 200 4.9ms
+2026-04-06T02:12:00.000Z DEBUG http GET /health 200 4.5ms
+2026-04-06T02:12:01.500Z DEBUG http GET /health 200 1.1ms
+2026-04-06T02:12:03.000Z DEBUG http GET /health 200 6.6ms
+2026-04-06T02:12:04.500Z WARN  slow query report_totals 612ms (retrying not needed)
+2026-04-06T02:12:06.000Z DEBUG gc pause 0.26ms
+2026-04-06T02:12:07.500Z INFO  cache hit key=rates:0
+2026-04-06T02:12:09.000Z INFO  Client C totals recomputed
+2026-04-06T02:12:10.500Z INFO  Client D totals recomputed
+2026-04-06T02:12:12.000Z INFO  Client A totals recomputed
+2026-04-06T02:12:13.500Z WARN  slow query report_totals 976ms (retrying not needed)
+2026-04-06T02:12:15.000Z INFO  cache hit key=rates:5
+2026-04-06T02:12:16.500Z DEBUG http GET /health 200 2.5ms
+2026-04-06T02:12:18.000Z INFO  loaded payment batch=1012 rows=17
+2026-04-06T02:12:19.500Z DEBUG http GET /health 200 1.3ms
+2026-04-06T02:12:21.000Z INFO  cache hit key=rates:9
+2026-04-06T02:12:22.500Z WARN  slow query report_totals 988ms (retrying not needed)
+2026-04-06T02:12:24.000Z INFO  cache hit key=rates:11
+2026-04-06T02:12:25.500Z WARN  slow query report_totals 851ms (retrying not needed)
+2026-04-06T02:12:27.000Z INFO  cache hit key=rates:13
+2026-04-06T02:12:28.500Z DEBUG gc pause 2.02ms
+2026-04-06T02:12:30.000Z INFO  Client A totals recomputed
+2026-04-06T02:12:31.500Z DEBUG gc pause 2.07ms
+2026-04-06T02:12:33.000Z INFO  cache hit key=rates:17
+2026-04-06T02:12:34.500Z INFO  loaded payment batch=1023 rows=23
+2026-04-06T02:12:36.000Z DEBUG http GET /health 200 2.3ms
+2026-04-06T02:12:37.500Z INFO  loaded payment batch=1025 rows=40
+2026-04-06T02:12:39.000Z WARN  slow query report_totals 871ms (retrying not needed)
+2026-04-06T02:12:40.500Z INFO  Client D totals recomputed
+2026-04-06T02:12:42.000Z DEBUG gc pause 1.61ms
+2026-04-06T02:12:43.500Z INFO  cache hit key=rates:24
+2026-04-06T02:12:45.000Z INFO  loaded payment batch=1030 rows=49
+2026-04-06T02:12:46.500Z WARN  slow query report_totals 894ms (retrying not needed)
+2026-04-06T02:12:48.000Z INFO  Client A totals recomputed
+2026-04-06T02:12:49.500Z INFO  loaded payment batch=1033 rows=39
+2026-04-06T02:12:51.000Z INFO  loaded payment batch=1034 rows=27
+2026-04-06T02:12:52.500Z INFO  cache hit key=rates:30
+2026-04-06T02:12:54.000Z WARN  slow query report_totals 600ms (retrying not needed)
+2026-04-06T02:12:55.500Z WARN  slow query report_totals 796ms (retrying not needed)
+2026-04-06T02:12:57.000Z INFO  loaded payment batch=1038 rows=8
+2026-04-06T02:12:58.500Z INFO  loaded payment batch=1039 rows=10
+2026-04-06T02:13:00.000Z WARN  slow query report_totals 640ms (retrying not needed)
+2026-04-06T02:13:01.500Z INFO  cache hit key=rates:36
+2026-04-06T02:13:03.000Z INFO  Client C totals recomputed
+2026-04-06T02:13:04.500Z WARN  slow query report_totals 922ms (retrying not needed)
+2026-04-06T02:13:06.000Z DEBUG gc pause 2.01ms
+2026-04-06T02:13:07.500Z INFO  Client B totals recomputed
+2026-04-06T02:13:09.000Z DEBUG gc pause 1.16ms
+2026-04-06T02:13:10.500Z DEBUG gc pause 1.12ms
+2026-04-06T02:13:12.000Z INFO  loaded payment batch=1008 rows=2
+2026-04-06T02:13:13.500Z INFO  cache hit key=rates:44
+2026-04-06T02:13:15.000Z INFO  cache hit key=rates:45
+2026-04-06T02:13:16.500Z INFO  cache hit key=rates:46
+2026-04-06T02:13:18.000Z WARN  slow query report_totals 870ms (retrying not needed)
+2026-04-06T02:13:19.500Z DEBUG http GET /health 200 1.1ms
+2026-04-06T02:13:21.000Z INFO  cache hit key=rates:49
+2026-04-06T02:13:22.500Z INFO  Client D totals recomputed
+2026-04-06T02:13:24.000Z DEBUG gc pause 2.66ms
+2026-04-06T02:13:25.500Z INFO  Client B totals recomputed
+2026-04-06T02:13:27.000Z DEBUG gc pause 2.21ms
+2026-04-06T02:13:28.500Z WARN  slow query report_totals 847ms (retrying not needed)
+2026-04-06T02:13:30.000Z INFO  cache hit key=rates:55
+2026-04-06T02:13:31.500Z INFO  loaded payment batch=1021 rows=24
+2026-04-06T02:13:33.000Z WARN  slow query report_totals 805ms (retrying not needed)
+2026-04-06T02:13:34.500Z WARN  slow query report_totals 856ms (retrying not needed)
+2026-04-06T02:13:36.000Z WARN  slow query report_totals 890ms (retrying not needed)
+2026-04-06T02:13:37.500Z INFO  loaded payment batch=1025 rows=43
+2026-04-06T02:13:39.000Z INFO  cache hit key=rates:61
+2026-04-06T02:13:40.500Z INFO  cache hit key=rates:62
+2026-04-06T02:13:42.000Z INFO  Client A totals recomputed
+2026-04-06T02:13:43.500Z DEBUG gc pause 0.61ms
+2026-04-06T02:13:45.000Z INFO  cache hit key=rates:65
+2026-04-06T02:13:46.500Z DEBUG http GET /health 200 1.4ms
+2026-04-06T02:13:48.000Z INFO  loaded payment batch=1032 rows=34
+2026-04-06T02:13:49.500Z WARN  slow query report_totals 764ms (retrying not needed)
+2026-04-06T02:13:51.000Z DEBUG gc pause 0.11ms
+2026-04-06T02:13:52.500Z DEBUG gc pause 2.61ms
+2026-04-06T02:13:54.000Z INFO  loaded payment batch=1036 rows=18
+2026-04-06T02:13:55.500Z DEBUG http GET /health 200 6.7ms
+2026-04-06T02:13:57.000Z INFO  cache hit key=rates:73
+2026-04-06T02:13:58.500Z DEBUG http GET /health 200 7.0ms
+2026-04-06T02:14:00.000Z INFO  cache hit key=rates:75
+2026-04-06T02:14:01.500Z WARN  slow query report_totals 970ms (retrying not needed)
+2026-04-06T02:14:03.000Z INFO  cache hit key=rates:77
+2026-04-06T02:14:04.500Z DEBUG gc pause 0.73ms
+2026-04-06T02:14:06.000Z WARN  slow query report_totals 613ms (retrying not needed)
+2026-04-06T02:14:07.500Z DEBUG gc pause 1.87ms
+2026-04-06T02:14:09.000Z DEBUG http GET /health 200 6.5ms
+2026-04-06T02:14:10.500Z INFO  loaded payment batch=1007 rows=26
+2026-04-06T02:14:12.000Z INFO  loaded payment batch=1008 rows=49
+2026-04-06T02:14:13.500Z INFO  Client B totals recomputed
+2026-04-06T02:14:15.000Z DEBUG gc pause 2.63ms
+2026-04-06T02:14:16.500Z INFO  cache hit key=rates:86
+2026-04-06T02:14:18.000Z DEBUG http GET /health 200 5.5ms
+2026-04-06T02:14:19.500Z WARN  slow query report_totals 650ms (retrying not needed)
+2026-04-06T02:14:21.000Z WARN  slow query report_totals 696ms (retrying not needed)
+2026-04-06T02:14:22.500Z INFO  loaded payment batch=1015 rows=31
+2026-04-06T02:14:24.000Z DEBUG gc pause 1.06ms
+2026-04-06T02:14:25.500Z INFO  cache hit key=rates:92
+2026-04-06T02:14:27.000Z DEBUG http GET /health 200 3.1ms
+2026-04-06T02:14:28.500Z INFO  cache hit key=rates:94
+2026-04-06T02:14:30.000Z DEBUG gc pause 2.20ms
+2026-04-06T02:14:31.500Z WARN  slow query report_totals 933ms (retrying not needed)
+2026-04-06T02:14:33.000Z INFO  cache hit key=rates:0
+2026-04-06T02:14:34.500Z WARN  slow query report_totals 949ms (retrying not needed)
+2026-04-06T02:14:36.000Z INFO  cache hit key=rates:2
+2026-04-06T02:14:37.500Z INFO  loaded payment batch=1025 rows=19
+2026-04-06T02:14:39.000Z INFO  Client C totals recomputed
+2026-04-06T02:14:40.500Z WARN  slow query report_totals 980ms (retrying not needed)
+2026-04-06T02:14:42.000Z INFO  cache hit key=rates:6
+2026-04-06T02:14:43.500Z INFO  cache hit key=rates:7
+2026-04-06T02:14:45.000Z DEBUG gc pause 2.53ms
+2026-04-06T02:14:46.500Z WARN  slow query report_totals 645ms (retrying not needed)
+2026-04-06T02:14:48.000Z WARN  slow query report_totals 778ms (retrying not needed)
+2026-04-06T02:14:49.500Z INFO  Client B totals recomputed
+2026-04-06T02:14:51.000Z WARN  slow query report_totals 705ms (retrying not needed)
+2026-04-06T02:14:52.500Z INFO  cache hit key=rates:13
+2026-04-06T02:14:54.000Z INFO  cache hit key=rates:14
+2026-04-06T02:14:55.500Z INFO  loaded payment batch=1037 rows=47
+2026-04-06T02:14:57.000Z WARN  slow query report_totals 928ms (retrying not needed)
+2026-04-06T02:14:58.500Z DEBUG gc pause 2.56ms
+2026-04-06T02:15:00.000Z INFO  Client A totals recomputed
+2026-04-06T02:15:01.500Z DEBUG http GET /health 200 7.1ms
+2026-04-06T02:15:03.000Z INFO  Client C totals recomputed
+2026-04-06T02:15:04.500Z INFO  Client D totals recomputed
+2026-04-06T02:15:06.000Z WARN  slow query report_totals 856ms (retrying not needed)
+2026-04-06T02:15:07.500Z INFO  Client B totals recomputed
+2026-04-06T02:15:09.000Z WARN  slow query report_totals 670ms (retrying not needed)
+2026-04-06T02:15:10.500Z DEBUG gc pause 2.19ms
+2026-04-06T02:15:12.000Z DEBUG http GET /health 200 4.4ms
+2026-04-06T02:15:13.500Z INFO  cache hit key=rates:27
+2026-04-06T02:15:15.000Z DEBUG gc pause 0.65ms
+2026-04-06T02:15:16.500Z INFO  loaded payment batch=1011 rows=44
+2026-04-06T02:15:18.000Z INFO  Client A totals recomputed
+2026-04-06T02:15:19.500Z INFO  Client B totals recomputed
+2026-04-06T02:15:21.000Z INFO  cache hit key=rates:32
+2026-04-06T02:15:22.500Z INFO  Client D totals recomputed
+2026-04-06T02:15:24.000Z INFO  Client A totals recomputed
+2026-04-06T02:15:25.500Z INFO  cache hit key=rates:35
+2026-04-06T02:15:27.000Z INFO  Client C totals recomputed
+2026-04-06T02:15:28.500Z INFO  loaded payment batch=1019 rows=10
+2026-04-06T02:15:30.000Z INFO  cache hit key=rates:38
+2026-04-06T02:15:31.500Z DEBUG http GET /health 200 5.1ms
+2026-04-06T02:15:33.000Z DEBUG gc pause 1.79ms
+2026-04-06T02:15:34.500Z WARN  slow query report_totals 614ms (retrying not needed)
+2026-04-06T02:15:36.000Z INFO  loaded payment batch=1024 rows=11
+2026-04-06T02:15:37.500Z DEBUG gc pause 0.30ms
+2026-04-06T02:15:39.000Z DEBUG http GET /health 200 6.8ms
+2026-04-06T02:15:40.500Z DEBUG http GET /health 200 9.5ms
+2026-04-06T02:15:42.000Z INFO  cache hit key=rates:46
+2026-04-06T02:15:43.500Z DEBUG http GET /health 200 8.5ms
+2026-04-06T02:15:45.000Z INFO  loaded payment batch=1030 rows=50
+2026-04-06T02:15:46.500Z DEBUG http GET /health 200 1.4ms
+2026-04-06T02:15:48.000Z INFO  Client A totals recomputed
+2026-04-06T02:15:49.500Z INFO  loaded payment batch=1033 rows=19
+2026-04-06T02:15:51.000Z DEBUG gc pause 1.89ms
+2026-04-06T02:15:52.500Z INFO  Client D totals recomputed
+2026-04-06T02:15:54.000Z INFO  Client A totals recomputed
+2026-04-06T02:15:55.500Z INFO  loaded payment batch=1037 rows=45
+2026-04-06T02:15:57.000Z INFO  Client C totals recomputed
+2026-04-06T02:15:58.500Z INFO  cache hit key=rates:57
+2026-04-06T02:16:00.000Z WARN  slow query report_totals 619ms (retrying not needed)
+2026-04-06T02:16:01.500Z INFO  loaded payment batch=1001 rows=18
+2026-04-06T02:16:03.000Z INFO  Client C totals recomputed
+2026-04-06T02:16:04.500Z INFO  loaded payment batch=1003 rows=1
+2026-04-06T02:16:06.000Z DEBUG gc pause 2.71ms
+2026-04-06T02:16:07.500Z INFO  Client B totals recomputed
+2026-04-06T02:16:09.000Z WARN  slow query report_totals 836ms (retrying not needed)
+2026-04-06T02:16:10.500Z WARN  slow query report_totals 874ms (retrying not needed)
+2026-04-06T02:16:12.000Z INFO  Client A totals recomputed
+2026-04-06T02:16:13.500Z DEBUG http GET /health 200 7.1ms
+2026-04-06T02:16:15.000Z DEBUG gc pause 2.12ms
+2026-04-06T02:16:16.500Z INFO  Client D totals recomputed
+2026-04-06T02:16:18.000Z INFO  Client A totals recomputed
+2026-04-06T02:16:19.500Z INFO  Client B totals recomputed
+2026-04-06T02:16:21.000Z DEBUG gc pause 0.29ms
+2026-04-06T02:16:22.500Z WARN  slow query report_totals 763ms (retrying not needed)
+2026-04-06T02:16:24.000Z DEBUG gc pause 0.47ms
+2026-04-06T02:16:25.500Z INFO  Client B totals recomputed
+2026-04-06T02:16:27.000Z DEBUG http GET /health 200 5.7ms
+2026-04-06T02:16:28.500Z INFO  loaded payment batch=1019 rows=2
+2026-04-06T02:16:30.000Z WARN  slow query report_totals 626ms (retrying not needed)
+2026-04-06T02:16:31.500Z INFO  loaded payment batch=1021 rows=6
+2026-04-06T02:16:33.000Z INFO  cache hit key=rates:80
+2026-04-06T02:16:34.500Z DEBUG http GET /health 200 6.1ms
+2026-04-06T02:16:36.000Z INFO  Client A totals recomputed
+2026-04-06T02:16:37.500Z DEBUG gc pause 0.62ms
+2026-04-06T02:16:39.000Z INFO  cache hit key=rates:84
+2026-04-06T02:16:40.500Z INFO  loaded payment batch=1027 rows=4
+2026-04-06T02:16:42.000Z DEBUG gc pause 2.52ms
+2026-04-06T02:16:43.500Z WARN  slow query report_totals 977ms (retrying not needed)
+2026-04-06T02:16:45.000Z DEBUG gc pause 2.56ms
+2026-04-06T02:16:46.500Z DEBUG http GET /health 200 7.6ms
+2026-04-06T02:16:48.000Z WARN  slow query report_totals 996ms (retrying not needed)
+2026-04-06T02:16:49.500Z DEBUG http GET /health 200 8.7ms
+2026-04-06T02:16:51.000Z INFO  cache hit key=rates:92
+2026-04-06T02:16:52.500Z DEBUG gc pause 1.24ms
+2026-04-06T02:16:54.000Z INFO  loaded payment batch=1036 rows=2
+2026-04-06T02:16:55.500Z DEBUG http GET /health 200 5.5ms
+2026-04-06T02:16:57.000Z INFO  Client C totals recomputed
+2026-04-06T02:16:58.500Z DEBUG gc pause 1.12ms
+2026-04-06T02:17:00.000Z WARN  slow query report_totals 921ms (retrying not needed)
+2026-04-06T02:17:01.500Z INFO  loaded payment batch=1001 rows=49
+2026-04-06T02:17:03.000Z WARN  slow query report_totals 782ms (retrying not needed)
+2026-04-06T02:17:04.500Z INFO  loaded payment batch=1003 rows=18
+2026-04-06T02:17:06.000Z DEBUG http GET /health 200 1.3ms
+2026-04-06T02:17:07.500Z INFO  loaded payment batch=1005 rows=18
+2026-04-06T02:17:09.000Z INFO  loaded payment batch=1006 rows=40
+2026-04-06T02:17:10.500Z WARN  slow query report_totals 954ms (retrying not needed)
+2026-04-06T02:17:12.000Z INFO  cache hit key=rates:9
+2026-04-06T02:17:13.500Z DEBUG http GET /health 200 8.2ms
+2026-04-06T02:17:15.000Z DEBUG http GET /health 200 6.2ms
+2026-04-06T02:17:16.500Z INFO  loaded payment batch=1011 rows=34
+2026-04-06T02:17:18.000Z WARN  slow query report_totals 727ms (retrying not needed)
+2026-04-06T02:17:19.500Z INFO  cache hit key=rates:14
+2026-04-06T02:17:21.000Z INFO  loaded payment batch=1014 rows=25
+2026-04-06T02:17:22.500Z INFO  Client D totals recomputed
+2026-04-06T02:17:24.000Z INFO  cache hit key=rates:17
+2026-04-06T02:17:25.500Z INFO  Client B totals recomputed
+2026-04-06T02:17:27.000Z INFO  cache hit key=rates:19
+2026-04-06T02:17:28.500Z DEBUG gc pause 1.21ms
+2026-04-06T02:17:30.000Z WARN  slow query report_totals 814ms (retrying not needed)
+2026-04-06T02:17:31.500Z INFO  loaded payment batch=1021 rows=29
+2026-04-06T02:17:33.000Z INFO  cache hit key=rates:23
+2026-04-06T02:17:34.500Z INFO  loaded payment batch=1023 rows=46
+2026-04-06T02:17:36.000Z INFO  loaded payment batch=1024 rows=37
+2026-04-06T02:17:37.500Z INFO  loaded payment batch=1025 rows=3
+2026-04-06T02:17:39.000Z INFO  loaded payment batch=1026 rows=23
+2026-04-06T02:17:40.500Z DEBUG gc pause 1.30ms
+2026-04-06T02:17:42.000Z INFO  loaded payment batch=1028 rows=11
+2026-04-06T02:17:43.500Z INFO  cache hit key=rates:30
+2026-04-06T02:17:45.000Z INFO  loaded payment batch=1030 rows=39
+2026-04-06T02:17:46.500Z DEBUG http GET /health 200 9.8ms
+2026-04-06T02:17:48.000Z DEBUG http GET /health 200 3.3ms
+2026-04-06T02:17:49.500Z DEBUG gc pause 1.85ms
+2026-04-06T02:17:51.000Z DEBUG gc pause 2.50ms
+2026-04-06T02:17:52.500Z DEBUG gc pause 1.26ms
+2026-04-06T02:17:54.000Z DEBUG http GET /health 200 5.5ms
+2026-04-06T02:17:55.500Z DEBUG http GET /health 200 7.7ms
+2026-04-06T02:17:57.000Z WARN  slow query report_totals 753ms (retrying not needed)
+2026-04-06T02:17:58.500Z INFO  Client D totals recomputed
+2026-04-06T02:18:00.000Z WARN  slow query report_totals 991ms (retrying not needed)
+2026-04-06T02:18:01.500Z INFO  cache hit key=rates:42
+2026-04-06T02:18:03.000Z DEBUG gc pause 1.99ms
+2026-04-06T02:18:04.500Z WARN  slow query report_totals 727ms (retrying not needed)
+2026-04-06T02:18:06.000Z INFO  loaded payment batch=1004 rows=41
+2026-04-06T02:18:07.500Z DEBUG gc pause 1.82ms
+2026-04-06T02:18:09.000Z WARN  slow query report_totals 917ms (retrying not needed)
+2026-04-06T02:18:10.500Z DEBUG http GET /health 200 6.3ms
+2026-04-06T02:18:12.000Z INFO  loaded payment batch=1008 rows=46
+2026-04-06T02:18:13.500Z INFO  Client B totals recomputed
+2026-04-06T02:18:15.000Z DEBUG gc pause 0.67ms
+2026-04-06T02:18:16.500Z INFO  Client D totals recomputed
+2026-04-06T02:18:18.000Z INFO  Client A totals recomputed
+2026-04-06T02:18:19.500Z INFO  cache hit key=rates:54
+2026-04-06T02:18:21.000Z INFO  Client C totals recomputed
+2026-04-06T02:18:22.500Z DEBUG gc pause 2.00ms
+2026-04-06T02:18:24.000Z INFO  cache hit key=rates:57
+2026-04-06T02:18:25.500Z INFO  cache hit key=rates:58
+2026-04-06T02:18:27.000Z WARN  slow query report_totals 837ms (retrying not needed)
+2026-04-06T02:18:28.500Z INFO  cache hit key=rates:60
+2026-04-06T02:18:30.000Z INFO  cache hit key=rates:61
+2026-04-06T02:18:31.500Z DEBUG gc pause 1.59ms
+2026-04-06T02:18:33.000Z INFO  cache hit key=rates:63
+2026-04-06T02:18:34.500Z WARN  slow query report_totals 854ms (retrying not needed)
+2026-04-06T02:18:36.000Z INFO  cache hit key=rates:65
+2026-04-06T02:18:37.500Z WARN  slow query report_totals 706ms (retrying not needed)
+2026-04-06T02:18:39.000Z DEBUG http GET /health 200 4.3ms
+2026-04-06T02:18:40.500Z WARN  slow query report_totals 804ms (retrying not needed)
+2026-04-06T02:18:42.000Z INFO  Client A totals recomputed
+2026-04-06T02:18:43.500Z DEBUG http GET /health 200 9.2ms
+2026-04-06T02:18:45.000Z INFO  loaded payment batch=1030 rows=25
+2026-04-06T02:18:46.500Z DEBUG gc pause 1.92ms
+2026-04-06T02:18:48.000Z DEBUG gc pause 0.43ms
+2026-04-06T02:18:49.500Z DEBUG gc pause 0.30ms
+2026-04-06T02:18:51.000Z INFO  Client C totals recomputed
+2026-04-06T02:18:52.500Z INFO  loaded payment batch=1035 rows=11
+2026-04-06T02:18:54.000Z WARN  slow query report_totals 815ms (retrying not needed)
+2026-04-06T02:18:55.500Z INFO  Client B totals recomputed
+2026-04-06T02:18:57.000Z INFO  cache hit key=rates:79
+2026-04-06T02:18:58.500Z DEBUG gc pause 1.17ms
+2026-04-06T02:19:00.000Z INFO  Client A totals recomputed
+2026-04-06T02:19:01.500Z INFO  Client B totals recomputed
+2026-04-06T02:19:03.000Z INFO  Client C totals recomputed
+2026-04-06T02:19:04.500Z WARN  slow query report_totals 951ms (retrying not needed)
+2026-04-06T02:19:06.000Z INFO  cache hit key=rates:85
+2026-04-06T02:19:07.500Z INFO  loaded payment batch=1005 rows=43
+2026-04-06T02:19:09.000Z INFO  Client C totals recomputed
+2026-04-06T02:19:10.500Z DEBUG http GET /health 200 4.2ms
+2026-04-06T02:19:12.000Z INFO  Client A totals recomputed
+2026-04-06T02:19:13.500Z WARN  slow query report_totals 708ms (retrying not needed)
+2026-04-06T02:19:15.000Z WARN  slow query report_totals 849ms (retrying not needed)
+2026-04-06T02:19:16.500Z WARN  slow query report_totals 717ms (retrying not needed)
+2026-04-06T02:19:18.000Z DEBUG gc pause 2.88ms
+2026-04-06T02:19:19.500Z DEBUG http GET /health 200 8.4ms
+2026-04-06T02:19:21.000Z DEBUG gc pause 2.59ms
+2026-04-06T02:19:22.500Z DEBUG http GET /health 200 3.0ms
+2026-04-06T02:19:24.000Z INFO  cache hit key=rates:0
+2026-04-06T02:19:25.500Z INFO  loaded payment batch=1017 rows=35
+2026-04-06T02:19:27.000Z DEBUG gc pause 0.07ms
+2026-04-06T02:19:28.500Z DEBUG gc pause 1.49ms
+2026-04-06T02:19:30.000Z INFO  cache hit key=rates:4
+2026-04-06T02:19:31.500Z INFO  cache hit key=rates:5
+2026-04-06T02:19:33.000Z INFO  loaded payment batch=1022 rows=30
+2026-04-06T02:19:34.500Z INFO  cache hit key=rates:7
+2026-04-06T02:19:36.000Z INFO  loaded payment batch=1024 rows=22
+2026-04-06T02:19:37.500Z DEBUG http GET /health 200 5.0ms
+2026-04-06T02:19:39.000Z INFO  Client C totals recomputed
+2026-04-06T02:19:40.500Z DEBUG http GET /health 200 1.0ms
+2026-04-06T02:19:42.000Z DEBUG gc pause 2.38ms
+2026-04-06T02:19:43.500Z INFO  Client B totals recomputed
+2026-04-06T02:19:45.000Z DEBUG gc pause 1.18ms
+2026-04-06T02:19:46.500Z DEBUG http GET /health 200 4.2ms
+2026-04-06T02:19:48.000Z INFO  cache hit key=rates:16
+2026-04-06T02:19:49.500Z INFO  Client B totals recomputed
+2026-04-06T02:19:51.000Z DEBUG gc pause 2.98ms
+2026-04-06T02:19:52.500Z DEBUG http GET /health 200 5.0ms
+2026-04-06T02:19:54.000Z WARN  slow query report_totals 757ms (retrying not needed)
+2026-04-06T02:19:55.500Z DEBUG http GET /health 200 8.2ms
+2026-04-06T02:19:57.000Z INFO  Client C totals recomputed
+2026-04-06T02:19:58.500Z INFO  loaded payment batch=1039 rows=2
+2026-04-06T02:20:00.000Z WARN  slow query report_totals 693ms (retrying not needed)
+2026-04-06T02:20:01.500Z DEBUG http GET /health 200 9.3ms
+2026-04-06T02:20:03.000Z WARN  slow query report_totals 953ms (retrying not needed)
+2026-04-06T02:20:04.500Z INFO  cache hit key=rates:27
+2026-04-06T02:20:06.000Z INFO  Client A totals recomputed
+2026-04-06T02:20:07.500Z WARN  slow query report_totals 889ms (retrying not needed)
+2026-04-06T02:20:09.000Z INFO  cache hit key=rates:30
+2026-04-06T02:20:10.500Z INFO  loaded payment batch=1007 rows=38
+2026-04-06T02:20:12.000Z INFO  loaded payment batch=1008 rows=46
+2026-04-06T02:20:13.500Z INFO  cache hit key=rates:33
+2026-04-06T02:20:15.000Z DEBUG http GET /health 200 1.2ms
+2026-04-06T02:20:16.500Z DEBUG http GET /health 200 6.7ms
+2026-04-06T02:20:18.000Z INFO  Client A totals recomputed
+2026-04-06T02:20:19.500Z INFO  cache hit key=rates:37
+2026-04-06T02:20:21.000Z DEBUG gc pause 1.38ms
+2026-04-06T02:20:22.500Z DEBUG http GET /health 200 5.3ms
+2026-04-06T02:20:24.000Z DEBUG http GET /health 200 8.2ms
+2026-04-06T02:20:25.500Z DEBUG http GET /health 200 4.1ms
+2026-04-06T02:20:27.000Z INFO  loaded payment batch=1018 rows=9
+2026-04-06T02:20:28.500Z DEBUG http GET /health 200 3.5ms
+2026-04-06T02:20:30.000Z DEBUG gc pause 2.94ms
+2026-04-06T02:20:31.500Z INFO  cache hit key=rates:45
+2026-04-06T02:20:33.000Z WARN  slow query report_totals 823ms (retrying not needed)
+2026-04-06T02:20:34.500Z WARN  slow query report_totals 842ms (retrying not needed)
+2026-04-06T02:20:36.000Z INFO  cache hit key=rates:48
+2026-04-06T02:20:37.500Z DEBUG gc pause 2.33ms
+2026-04-06T02:20:39.000Z DEBUG http GET /health 200 8.2ms
+2026-04-06T02:20:40.500Z DEBUG gc pause 0.31ms
+2026-04-06T02:20:42.000Z INFO  Client A totals recomputed
+2026-04-06T02:20:43.500Z INFO  Client B totals recomputed
+2026-04-06T02:20:45.000Z INFO  loaded payment batch=1030 rows=17
+2026-04-06T02:20:46.500Z INFO  Client D totals recomputed
+2026-04-06T02:20:48.000Z DEBUG gc pause 2.54ms
+2026-04-06T02:20:49.500Z DEBUG gc pause 2.67ms
+2026-04-06T02:20:51.000Z DEBUG http GET /health 200 4.7ms
+2026-04-06T02:20:52.500Z INFO  cache hit key=rates:59
+2026-04-06T02:20:54.000Z INFO  loaded payment batch=1036 rows=4
+2026-04-06T02:20:55.500Z INFO  cache hit key=rates:61
+2026-04-06T02:20:57.000Z DEBUG gc pause 2.54ms
+2026-04-06T02:20:58.500Z DEBUG gc pause 2.77ms
+2026-04-06T02:21:00.000Z DEBUG http GET /health 200 6.9ms
+2026-04-06T02:21:01.500Z WARN  slow query report_totals 924ms (retrying not needed)
+2026-04-06T02:21:03.000Z DEBUG http GET /health 200 2.0ms
+2026-04-06T02:21:04.500Z DEBUG gc pause 2.95ms
+2026-04-06T02:21:06.000Z INFO  Client A totals recomputed
+2026-04-06T02:21:07.500Z DEBUG http GET /health 200 9.7ms
+2026-04-06T02:21:09.000Z INFO  loaded payment batch=1006 rows=24
+2026-04-06T02:21:10.500Z WARN  slow query report_totals 706ms (retrying not needed)
+2026-04-06T02:21:12.000Z DEBUG gc pause 0.67ms
+2026-04-06T02:21:13.500Z INFO  cache hit key=rates:73
+2026-04-06T02:21:15.000Z INFO  cache hit key=rates:74
+2026-04-06T02:21:16.500Z INFO  loaded payment batch=1011 rows=35
+2026-04-06T02:21:18.000Z DEBUG http GET /health 200 7.3ms
+2026-04-06T02:21:19.500Z INFO  Client B totals recomputed
+2026-04-06T02:21:21.000Z INFO  cache hit key=rates:78
+2026-04-06T02:21:22.500Z INFO  Client D totals recomputed
+2026-04-06T02:21:24.000Z DEBUG http GET /health 200 2.6ms
+2026-04-06T02:21:25.500Z INFO  Client B totals recomputed
+2026-04-06T02:21:27.000Z INFO  loaded payment batch=1018 rows=9
+2026-04-06T02:21:28.500Z INFO  cache hit key=rates:83
+2026-04-06T02:21:30.000Z DEBUG http GET /health 200 3.2ms
+2026-04-06T02:21:31.500Z INFO  loaded payment batch=1021 rows=34
+2026-04-06T02:21:33.000Z INFO  Client C totals recomputed
+2026-04-06T02:21:34.500Z WARN  slow query report_totals 705ms (retrying not needed)
+2026-04-06T02:21:36.000Z DEBUG http GET /health 200 3.2ms
+2026-04-06T02:21:37.500Z WARN  slow query report_totals 637ms (retrying not needed)
+2026-04-06T02:21:39.000Z INFO  cache hit key=rates:90
+2026-04-06T02:21:40.500Z INFO  cache hit key=rates:91
+2026-04-06T02:21:42.000Z WARN  slow query report_totals 837ms (retrying not needed)
+2026-04-06T02:21:43.500Z DEBUG http GET /health 200 6.6ms
+2026-04-06T02:21:45.000Z INFO  loaded payment batch=1030 rows=10
+2026-04-06T02:21:46.500Z INFO  cache hit key=rates:95
+2026-04-06T02:21:48.000Z INFO  cache hit key=rates:96
+2026-04-06T02:21:49.500Z INFO  Client B totals recomputed
+2026-04-06T02:21:51.000Z WARN  slow query report_totals 971ms (retrying not needed)
+2026-04-06T02:21:52.500Z INFO  Client D totals recomputed
+2026-04-06T02:21:54.000Z INFO  Client A totals recomputed
+2026-04-06T02:21:55.500Z DEBUG http GET /health 200 2.9ms
+2026-04-06T02:21:57.000Z DEBUG http GET /health 200 2.8ms
+2026-04-06T02:21:58.500Z INFO  loaded payment batch=1039 rows=42
+2026-04-06T02:22:00.000Z DEBUG http GET /health 200 4.7ms
+2026-04-06T02:22:01.500Z INFO  Client B totals recomputed
+2026-04-06T02:22:03.000Z WARN  slow query report_totals 632ms (retrying not needed)
+2026-04-06T02:22:04.500Z DEBUG gc pause 0.91ms
+2026-04-06T02:22:06.000Z DEBUG http GET /health 200 3.9ms
+2026-04-06T02:22:07.500Z DEBUG http GET /health 200 6.3ms
+2026-04-06T02:22:09.000Z WARN  slow query report_totals 918ms (retrying not needed)
+2026-04-06T02:22:10.500Z INFO  Client D totals recomputed
+2026-04-06T02:22:12.000Z INFO  cache hit key=rates:15
+2026-04-06T02:22:13.500Z INFO  cache hit key=rates:16
+2026-04-06T02:22:15.000Z DEBUG http GET /health 200 3.1ms
+2026-04-06T02:22:16.500Z DEBUG gc pause 2.26ms
+2026-04-06T02:22:18.000Z INFO  cache hit key=rates:19
+2026-04-06T02:22:19.500Z DEBUG gc pause 2.88ms
+2026-04-06T02:22:21.000Z DEBUG gc pause 2.52ms
+2026-04-06T02:22:22.500Z INFO  Client D totals recomputed
+2026-04-06T02:22:24.000Z INFO  Client A totals recomputed
+2026-04-06T02:22:25.500Z WARN  slow query report_totals 930ms (retrying not needed)
+2026-04-06T02:22:27.000Z INFO  loaded payment batch=1018 rows=43
+2026-04-06T02:22:28.500Z INFO  cache hit key=rates:26
+2026-04-06T02:22:30.000Z DEBUG http GET /health 200 3.7ms
+2026-04-06T02:22:31.500Z INFO  loaded payment batch=1021 rows=26
+2026-04-06T02:22:33.000Z DEBUG http GET /health 200 1.7ms
+2026-04-06T02:22:34.500Z DEBUG http GET /health 200 2.7ms
+2026-04-06T02:22:36.000Z INFO  Client A totals recomputed
+2026-04-06T02:22:37.500Z INFO  cache hit key=rates:32
+2026-04-06T02:22:39.000Z INFO  loaded payment batch=1026 rows=44
+2026-04-06T02:22:40.500Z DEBUG http GET /health 200 2.5ms
+2026-04-06T02:22:42.000Z DEBUG gc pause 2.69ms
+2026-04-06T02:22:43.500Z DEBUG gc pause 1.00ms
+2026-04-06T02:22:45.000Z INFO  cache hit key=rates:37
+2026-04-06T02:22:46.500Z INFO  loaded payment batch=1031 rows=8
+2026-04-06T02:22:48.000Z DEBUG http GET /health 200 6.9ms
+2026-04-06T02:22:49.500Z INFO  loaded payment batch=1033 rows=11
+2026-04-06T02:22:51.000Z DEBUG http GET /health 200 4.1ms
+2026-04-06T02:22:52.500Z WARN  slow query report_totals 923ms (retrying not needed)
+2026-04-06T02:22:54.000Z INFO  loaded payment batch=1036 rows=1
+2026-04-06T02:22:55.500Z INFO  Client B totals recomputed
+2026-04-06T02:22:57.000Z INFO  cache hit key=rates:45
+2026-04-06T02:22:58.500Z WARN  slow query report_totals 711ms (retrying not needed)
+2026-04-06T02:23:00.000Z INFO  cache hit key=rates:47
+2026-04-06T02:23:01.500Z INFO  Client B totals recomputed
+2026-04-06T02:23:03.000Z INFO  Client C totals recomputed
+2026-04-06T02:23:04.500Z DEBUG http GET /health 200 7.2ms
+2026-04-06T02:23:06.000Z INFO  loaded payment batch=1004 rows=8
+2026-04-06T02:23:07.500Z DEBUG gc pause 2.45ms
+2026-04-06T02:23:09.000Z DEBUG http GET /health 200 7.5ms
+2026-04-06T02:23:10.500Z INFO  loaded payment batch=1007 rows=28
+2026-04-06T02:23:12.000Z INFO  Client A totals recomputed
+2026-04-06T02:23:13.500Z INFO  Client B totals recomputed
+2026-04-06T02:23:15.000Z INFO  cache hit key=rates:57
+2026-04-06T02:23:16.500Z INFO  Client D totals recomputed
+2026-04-06T02:23:18.000Z DEBUG gc pause 2.53ms
+2026-04-06T02:23:19.500Z DEBUG http GET /health 200 9.7ms
+2026-04-06T02:23:21.000Z INFO  Client C totals recomputed
+2026-04-06T02:23:22.500Z DEBUG gc pause 0.91ms
+2026-04-06T02:23:24.000Z DEBUG http GET /health 200 9.8ms
+2026-04-06T02:23:25.500Z DEBUG http GET /health 200 6.7ms
+2026-04-06T02:23:27.000Z DEBUG gc pause 2.49ms
+2026-04-06T02:23:28.500Z WARN  slow query report_totals 638ms (retrying not needed)
+2026-04-06T02:23:30.000Z DEBUG http GET /health 200 9.5ms
+2026-04-06T02:23:31.500Z INFO  loaded payment batch=1021 rows=1
+2026-04-06T02:23:33.000Z INFO  loaded payment batch=1022 rows=13
+2026-04-06T02:23:34.500Z INFO  Client D totals recomputed
+2026-04-06T02:23:36.000Z DEBUG http GET /health 200 1.4ms
+2026-04-06T02:23:37.500Z WARN  slow query report_totals 806ms (retrying not needed)
+2026-04-06T02:23:39.000Z DEBUG http GET /health 200 1.3ms
+2026-04-06T02:23:40.500Z INFO  loaded payment batch=1027 rows=42
+2026-04-06T02:23:42.000Z INFO  Client A totals recomputed
+2026-04-06T02:23:43.500Z INFO  Client B totals recomputed
+2026-04-06T02:23:45.000Z INFO  loaded payment batch=1030 rows=17
+2026-04-06T02:23:46.500Z INFO  Client D totals recomputed
+2026-04-06T02:23:48.000Z INFO  loaded payment batch=1032 rows=5
+2026-04-06T02:23:49.500Z DEBUG http GET /health 200 6.7ms
+2026-04-06T02:23:51.000Z WARN  slow query report_totals 915ms (retrying not needed)
+2026-04-06T02:23:52.500Z INFO  loaded payment batch=1035 rows=30
+2026-04-06T02:23:54.000Z DEBUG http GET /health 200 3.5ms
+2026-04-06T02:23:55.500Z DEBUG gc pause 1.78ms
+2026-04-06T02:23:57.000Z INFO  loaded payment batch=1038 rows=20
+2026-04-06T02:23:58.500Z DEBUG gc pause 1.09ms
+2026-04-06T02:24:00.000Z DEBUG http GET /health 200 5.5ms
+2026-04-06T02:24:01.500Z DEBUG gc pause 2.67ms
+2026-04-06T02:24:03.000Z INFO  loaded payment batch=1002 rows=41
+2026-04-06T02:24:04.500Z DEBUG http GET /health 200 6.5ms
+2026-04-06T02:24:06.000Z INFO  Client A totals recomputed
+2026-04-06T02:24:07.500Z INFO  loaded payment batch=1005 rows=10
+2026-04-06T02:24:09.000Z INFO  Client C totals recomputed
+2026-04-06T02:24:10.500Z DEBUG gc pause 1.12ms
+2026-04-06T02:24:12.000Z INFO  loaded payment batch=1008 rows=47
+2026-04-06T02:24:13.500Z INFO  Client B totals recomputed
+2026-04-06T02:24:15.000Z DEBUG http GET /health 200 3.9ms
+2026-04-06T02:24:16.500Z INFO  loaded payment batch=1011 rows=42
+2026-04-06T02:24:18.000Z WARN  slow query report_totals 936ms (retrying not needed)
+2026-04-06T02:24:19.500Z WARN  slow query report_totals 860ms (retrying not needed)
+2026-04-06T02:24:21.000Z WARN  slow query report_totals 739ms (retrying not needed)
+2026-04-06T02:24:22.500Z WARN  slow query report_totals 668ms (retrying not needed)
+2026-04-06T02:24:24.000Z DEBUG http GET /health 200 7.0ms
+2026-04-06T02:24:25.500Z INFO  cache hit key=rates:7
+2026-04-06T02:24:27.000Z INFO  Client C totals recomputed
+2026-04-06T02:24:28.500Z WARN  slow query report_totals 917ms (retrying not needed)
+2026-04-06T02:24:30.000Z INFO  Client A totals recomputed
+2026-04-06T02:24:31.500Z DEBUG http GET /health 200 6.0ms
+2026-04-06T02:24:33.000Z DEBUG http GET /health 200 2.6ms
+2026-04-06T02:24:34.500Z DEBUG gc pause 2.13ms
+2026-04-06T02:24:36.000Z DEBUG gc pause 1.49ms
+2026-04-06T02:24:37.500Z WARN  slow query report_totals 939ms (retrying not needed)
+2026-04-06T02:24:39.000Z DEBUG gc pause 1.21ms
+2026-04-06T02:24:40.500Z INFO  cache hit key=rates:17
+2026-04-06T02:24:42.000Z INFO  Client A totals recomputed
+2026-04-06T02:24:43.500Z INFO  Client B totals recomputed
+2026-04-06T02:24:45.000Z INFO  loaded payment batch=1030 rows=16
+2026-04-06T02:24:46.500Z INFO  cache hit key=rates:21
+2026-04-06T02:24:48.000Z INFO  Client A totals recomputed
+2026-04-06T02:24:49.500Z INFO  loaded payment batch=1033 rows=44
+2026-04-06T02:24:51.000Z INFO  cache hit key=rates:24
+2026-04-06T02:24:52.500Z WARN  slow query report_totals 632ms (retrying not needed)
+2026-04-06T02:24:54.000Z DEBUG http GET /health 200 5.1ms
+2026-04-06T02:24:55.500Z INFO  Client B totals recomputed
+2026-04-06T02:24:57.000Z INFO  Client C totals recomputed
+2026-04-06T02:24:58.500Z WARN  slow query report_totals 958ms (retrying not needed)
+2026-04-06T02:25:00.000Z INFO  Client A totals recomputed
+2026-04-06T02:25:01.500Z INFO  loaded payment batch=1001 rows=37
+2026-04-06T02:25:03.000Z DEBUG gc pause 2.74ms
+2026-04-06T02:25:04.500Z WARN  slow query report_totals 957ms (retrying not needed)
+2026-04-06T02:25:06.000Z INFO  cache hit key=rates:34
+2026-04-06T02:25:07.500Z INFO  cache hit key=rates:35
+2026-04-06T02:25:09.000Z DEBUG gc pause 2.14ms
+2026-04-06T02:25:10.500Z DEBUG http GET /health 200 9.6ms
+2026-04-06T02:25:12.000Z DEBUG gc pause 2.64ms
+2026-04-06T02:25:13.500Z INFO  Client B totals recomputed
+2026-04-06T02:25:15.000Z INFO  cache hit key=rates:40
+2026-04-06T02:25:16.500Z INFO  loaded payment batch=1011 rows=33
+2026-04-06T02:25:18.000Z DEBUG gc pause 1.03ms
+2026-04-06T02:25:19.500Z DEBUG gc pause 1.61ms
+2026-04-06T02:25:21.000Z INFO  Client C totals recomputed
+2026-04-06T02:25:22.500Z WARN  slow query report_totals 715ms (retrying not needed)
+2026-04-06T02:25:24.000Z WARN  slow query report_totals 876ms (retrying not needed)
+2026-04-06T02:25:25.500Z INFO  loaded payment batch=1017 rows=47
+2026-04-06T02:25:27.000Z WARN  slow query report_totals 627ms (retrying not needed)
+2026-04-06T02:25:28.500Z INFO  loaded payment batch=1019 rows=48
+2026-04-06T02:25:30.000Z DEBUG http GET /health 200 5.0ms
+2026-04-06T02:25:31.500Z INFO  cache hit key=rates:51
+2026-04-06T02:25:33.000Z WARN  slow query report_totals 950ms (retrying not needed)
+2026-04-06T02:25:34.500Z INFO  cache hit key=rates:53
+2026-04-06T02:25:36.000Z INFO  cache hit key=rates:54
+2026-04-06T02:25:37.500Z DEBUG gc pause 0.01ms
+2026-04-06T02:25:39.000Z WARN  slow query report_totals 799ms (retrying not needed)
+2026-04-06T02:25:40.500Z INFO  cache hit key=rates:57
+2026-04-06T02:25:42.000Z WARN  slow query report_totals 807ms (retrying not needed)
+2026-04-06T02:25:43.500Z DEBUG http GET /health 200 7.3ms
+2026-04-06T02:25:45.000Z WARN  slow query report_totals 940ms (retrying not needed)
+2026-04-06T02:25:46.500Z INFO  cache hit key=rates:61
+2026-04-06T02:25:48.000Z DEBUG gc pause 2.15ms
+2026-04-06T02:25:49.500Z DEBUG http GET /health 200 5.8ms
+2026-04-06T02:25:51.000Z INFO  Client C totals recomputed
+2026-04-06T02:25:52.500Z INFO  Client D totals recomputed
+2026-04-06T02:25:54.000Z DEBUG gc pause 2.55ms
+2026-04-06T02:25:55.500Z INFO  cache hit key=rates:67
+2026-04-06T02:25:57.000Z WARN  slow query report_totals 762ms (retrying not needed)
+2026-04-06T02:25:58.500Z INFO  loaded payment batch=1039 rows=1
+2026-04-06T02:26:00.000Z DEBUG gc pause 0.43ms
+2026-04-06T02:26:01.500Z INFO  loaded payment batch=1001 rows=36
+2026-04-06T02:26:03.000Z DEBUG gc pause 2.96ms
+2026-04-06T02:26:04.500Z INFO  Client D totals recomputed
+2026-04-06T02:26:06.000Z INFO  cache hit key=rates:74
+2026-04-06T02:26:07.500Z WARN  slow query report_totals 943ms (retrying not needed)
+2026-04-06T02:26:09.000Z DEBUG http GET /health 200 8.4ms
+2026-04-06T02:26:10.500Z DEBUG gc pause 0.07ms
+2026-04-06T02:26:12.000Z INFO  Client A totals recomputed
+2026-04-06T02:26:13.500Z INFO  Client B totals recomputed
+2026-04-06T02:26:15.000Z INFO  loaded payment batch=1010 rows=48
+2026-04-06T02:26:16.500Z INFO  Client D totals recomputed
+2026-04-06T02:26:18.000Z INFO  cache hit key=rates:82
+2026-04-06T02:26:19.500Z INFO  cache hit key=rates:83
+2026-04-06T02:26:21.000Z DEBUG gc pause 2.68ms
+2026-04-06T02:26:22.500Z INFO  cache hit key=rates:85
+2026-04-06T02:26:24.000Z DEBUG http GET /health 200 6.9ms
+2026-04-06T02:26:25.500Z WARN  slow query report_totals 861ms (retrying not needed)
+2026-04-06T02:26:27.000Z INFO  Client C totals recomputed
+2026-04-06T02:26:28.500Z INFO  cache hit key=rates:89
+2026-04-06T02:26:30.000Z INFO  loaded payment batch=1020 rows=21
+2026-04-06T02:26:31.500Z INFO  cache hit key=rates:91
+2026-04-06T02:26:33.000Z DEBUG gc pause 1.15ms
+2026-04-06T02:26:34.500Z WARN  slow query report_totals 641ms (retrying not needed)
+2026-04-06T02:26:36.000Z WARN  slow query report_totals 854ms (retrying not needed)
+2026-04-06T02:26:37.500Z INFO  cache hit key=rates:95
+2026-04-06T02:26:39.000Z INFO  Client C totals recomputed
+2026-04-06T02:26:40.500Z DEBUG http GET /health 200 6.6ms
+2026-04-06T02:26:42.000Z INFO  Client A totals recomputed
+2026-04-06T02:26:43.500Z INFO  cache hit key=rates:2
+2026-04-06T02:26:45.000Z DEBUG http GET /health 200 2.6ms
+2026-04-06T02:26:46.500Z INFO  loaded payment batch=1031 rows=46
+2026-04-06T02:26:48.000Z INFO  Client A totals recomputed
+2026-04-06T02:26:49.500Z INFO  Client B totals recomputed
+2026-04-06T02:26:51.000Z INFO  loaded payment batch=1034 rows=41
+2026-04-06T02:26:52.500Z DEBUG gc pause 1.19ms
+2026-04-06T02:26:54.000Z INFO  loaded payment batch=1036 rows=39
+2026-04-06T02:26:55.500Z INFO  cache hit key=rates:10
+2026-04-06T02:26:57.000Z DEBUG gc pause 1.83ms
+2026-04-06T02:26:58.500Z INFO  loaded payment batch=1039 rows=42
+2026-04-06T02:27:00.000Z INFO  Client A totals recomputed
+2026-04-06T02:27:01.500Z DEBUG gc pause 0.19ms
+2026-04-06T02:27:03.000Z INFO  cache hit key=rates:15
+2026-04-06T02:27:04.500Z DEBUG http GET /health 200 3.6ms
+2026-04-06T02:27:06.000Z INFO  cache hit key=rates:17
+2026-04-06T02:27:07.500Z INFO  Client B totals recomputed
+2026-04-06T02:27:09.000Z DEBUG http GET /health 200 1.0ms
+2026-04-06T02:27:10.500Z WARN  slow query report_totals 857ms (retrying not needed)
+2026-04-06T02:27:12.000Z DEBUG gc pause 2.26ms
+2026-04-06T02:27:13.500Z INFO  Client B totals recomputed
+2026-04-06T02:27:15.000Z DEBUG http GET /health 200 6.1ms
+2026-04-06T02:27:16.500Z DEBUG gc pause 2.87ms
+2026-04-06T02:27:18.000Z INFO  loaded payment batch=1012 rows=2
+2026-04-06T02:27:19.500Z WARN  slow query report_totals 765ms (retrying not needed)
+2026-04-06T02:27:21.000Z INFO  loaded payment batch=1014 rows=26
+2026-04-06T02:27:22.500Z INFO  loaded payment batch=1015 rows=39
+2026-04-06T02:27:24.000Z INFO  cache hit key=rates:29
+2026-04-06T02:27:25.500Z DEBUG http GET /health 200 1.6ms
+2026-04-06T02:27:27.000Z DEBUG http GET /health 200 4.3ms
+2026-04-06T02:27:28.500Z INFO  loaded payment batch=1019 rows=13
+2026-04-06T02:27:30.000Z INFO  Client A totals recomputed
+2026-04-06T02:27:31.500Z DEBUG http GET /health 200 8.1ms
+2026-04-06T02:27:33.000Z DEBUG http GET /health 200 3.9ms
+2026-04-06T02:27:34.500Z INFO  loaded payment batch=1023 rows=28
+2026-04-06T02:27:36.000Z DEBUG http GET /health 200 8.6ms
+2026-04-06T02:27:37.500Z INFO  Client B totals recomputed
+2026-04-06T02:27:39.000Z INFO  Client C totals recomputed
+2026-04-06T02:27:40.500Z INFO  loaded payment batch=1027 rows=3
+2026-04-06T02:27:42.000Z DEBUG gc pause 2.33ms
+2026-04-06T02:27:43.500Z INFO  loaded payment batch=1029 rows=20
+2026-04-06T02:27:45.000Z INFO  loaded payment batch=1030 rows=10
+2026-04-06T02:27:46.500Z DEBUG gc pause 1.36ms
+2026-04-06T02:27:48.000Z WARN  slow query report_totals 677ms (retrying not needed)
+2026-04-06T02:27:49.500Z INFO  Client B totals recomputed
+2026-04-06T02:27:51.000Z DEBUG gc pause 1.38ms
+2026-04-06T02:27:52.500Z DEBUG http GET /health 200 8.6ms
+2026-04-06T02:27:54.000Z WARN  slow query report_totals 977ms (retrying not needed)
+2026-04-06T02:27:55.500Z WARN  slow query report_totals 989ms (retrying not needed)
+2026-04-06T02:27:57.000Z DEBUG gc pause 1.30ms
+2026-04-06T02:27:58.500Z WARN  slow query report_totals 604ms (retrying not needed)
+2026-04-06T02:28:00.000Z WARN  slow query report_totals 835ms (retrying not needed)
+2026-04-06T02:28:01.500Z WARN  slow query report_totals 891ms (retrying not needed)
+2026-04-06T02:28:03.000Z INFO  Client C totals recomputed
+2026-04-06T02:28:04.500Z DEBUG http GET /health 200 6.4ms
+2026-04-06T02:28:06.000Z WARN  slow query report_totals 612ms (retrying not needed)
+2026-04-06T02:28:07.500Z DEBUG http GET /health 200 7.1ms
+2026-04-06T02:28:09.000Z INFO  Client C totals recomputed
+2026-04-06T02:28:10.500Z INFO  cache hit key=rates:60
+2026-04-06T02:28:12.000Z WARN  slow query report_totals 700ms (retrying not needed)
+2026-04-06T02:28:13.500Z DEBUG gc pause 2.77ms
+2026-04-06T02:28:15.000Z INFO  loaded payment batch=1010 rows=42
+2026-04-06T02:28:16.500Z INFO  Client D totals recomputed
+2026-04-06T02:28:18.000Z WARN  slow query report_totals 871ms (retrying not needed)
+2026-04-06T02:28:19.500Z INFO  loaded payment batch=1013 rows=36
+2026-04-06T02:28:21.000Z INFO  Client C totals recomputed
+2026-04-06T02:28:22.500Z DEBUG http GET /health 200 7.8ms
+2026-04-06T02:28:24.000Z INFO  Client A totals recomputed
+2026-04-06T02:28:25.500Z DEBUG gc pause 2.17ms
+2026-04-06T02:28:27.000Z INFO  cache hit key=rates:71
+2026-04-06T02:28:28.500Z DEBUG http GET /health 200 9.2ms
+2026-04-06T02:28:30.000Z INFO  cache hit key=rates:73
+2026-04-06T02:28:31.500Z DEBUG http GET /health 200 7.1ms
+2026-04-06T02:28:33.000Z DEBUG gc pause 0.52ms
+2026-04-06T02:28:34.500Z INFO  cache hit key=rates:76
+2026-04-06T02:28:36.000Z INFO  loaded payment batch=1024 rows=46
+2026-04-06T02:28:37.500Z DEBUG http GET /health 200 7.7ms
+2026-04-06T02:28:39.000Z DEBUG http GET /health 200 6.9ms
+2026-04-06T02:28:40.500Z INFO  cache hit key=rates:80
+2026-04-06T02:28:42.000Z INFO  Client A totals recomputed
+2026-04-06T02:28:43.500Z INFO  Client B totals recomputed
+2026-04-06T02:28:45.000Z INFO  cache hit key=rates:83
+2026-04-06T02:28:46.500Z DEBUG gc pause 0.57ms
+2026-04-06T02:28:48.000Z DEBUG gc pause 1.55ms
+2026-04-06T02:28:49.500Z INFO  cache hit key=rates:86
+2026-04-06T02:28:51.000Z INFO  loaded payment batch=1034 rows=26
+2026-04-06T02:28:52.500Z INFO  cache hit key=rates:88
+2026-04-06T02:28:54.000Z INFO  loaded payment batch=1036 rows=36
+2026-04-06T02:28:55.500Z INFO  cache hit key=rates:90
+2026-04-06T02:28:57.000Z DEBUG http GET /health 200 4.3ms
+2026-04-06T02:28:58.500Z WARN  slow query report_totals 657ms (retrying not needed)
+2026-04-06T02:29:00.000Z DEBUG gc pause 0.98ms
+2026-04-06T02:29:01.500Z WARN  slow query report_totals 976ms (retrying not needed)
+2026-04-06T02:29:03.000Z DEBUG gc pause 2.21ms
+2026-04-06T02:29:04.500Z DEBUG gc pause 1.06ms
+2026-04-06T02:29:06.000Z INFO  loaded payment batch=1004 rows=22
+2026-04-06T02:29:07.500Z DEBUG http GET /health 200 7.9ms
+2026-04-06T02:29:09.000Z INFO  cache hit key=rates:2
+2026-04-06T02:29:10.500Z INFO  cache hit key=rates:3
+2026-04-06T02:29:12.000Z DEBUG gc pause 2.30ms
+2026-04-06T02:29:13.500Z INFO  Client B totals recomputed
+2026-04-06T02:29:15.000Z INFO  loaded payment batch=1010 rows=3
+2026-04-06T02:29:16.500Z DEBUG http GET /health 200 7.3ms
+2026-04-06T02:29:18.000Z DEBUG http GET /health 200 4.8ms
+2026-04-06T02:29:19.500Z WARN  slow query report_totals 924ms (retrying not needed)
+2026-04-06T02:29:21.000Z INFO  loaded payment batch=1014 rows=28
+2026-04-06T02:29:22.500Z INFO  loaded payment batch=1015 rows=17
+2026-04-06T02:29:24.000Z DEBUG http GET /health 200 3.6ms
+2026-04-06T02:29:25.500Z DEBUG gc pause 1.11ms
+2026-04-06T02:29:27.000Z WARN  slow query report_totals 990ms (retrying not needed)
+2026-04-06T02:29:28.500Z WARN  slow query report_totals 979ms (retrying not needed)
+2026-04-06T02:29:30.000Z INFO  Client A totals recomputed
+2026-04-06T02:29:31.500Z DEBUG gc pause 0.86ms
+2026-04-06T02:29:33.000Z INFO  cache hit key=rates:18
+2026-04-06T02:29:34.500Z DEBUG gc pause 0.82ms
+2026-04-06T02:29:36.000Z DEBUG gc pause 2.15ms
+2026-04-06T02:29:37.500Z INFO  loaded payment batch=1025 rows=4
+2026-04-06T02:29:39.000Z INFO  Client C totals recomputed
+2026-04-06T02:29:40.500Z WARN  slow query report_totals 994ms (retrying not needed)
+2026-04-06T02:29:42.000Z WARN  slow query report_totals 844ms (retrying not needed)
+2026-04-06T02:29:43.500Z INFO  Client B totals recomputed
+2026-04-06T02:29:45.000Z INFO  Client C totals recomputed
+2026-04-06T02:29:46.500Z INFO  cache hit key=rates:27
+2026-04-06T02:29:48.000Z DEBUG http GET /health 200 3.4ms
+2026-04-06T02:29:49.500Z DEBUG http GET /health 200 4.7ms
+2026-04-06T02:29:51.000Z DEBUG gc pause 1.46ms
+2026-04-06T02:29:52.500Z INFO  cache hit key=rates:31
+2026-04-06T02:29:54.000Z INFO  cache hit key=rates:32
+2026-04-06T02:29:55.500Z INFO  cache hit key=rates:33
+2026-04-06T02:29:57.000Z DEBUG http GET /health 200 7.7ms
+2026-04-06T02:29:58.500Z INFO  cache hit key=rates:35
+2026-04-06T02:30:00.000Z INFO  cache hit key=rates:36
+2026-04-06T02:30:01.500Z INFO  loaded payment batch=1001 rows=8
+2026-04-06T02:30:03.000Z INFO  cache hit key=rates:38
+2026-04-06T02:30:04.500Z WARN  slow query report_totals 922ms (retrying not needed)
+2026-04-06T02:30:06.000Z DEBUG gc pause 1.44ms
+2026-04-06T02:30:07.500Z DEBUG http GET /health 200 1.7ms
+2026-04-06T02:30:09.000Z INFO  loaded payment batch=1006 rows=5
+2026-04-06T02:30:10.500Z INFO  loaded payment batch=1007 rows=8
+2026-04-06T02:30:12.000Z INFO  cache hit key=rates:44
+2026-04-06T02:30:13.500Z WARN  slow query report_totals 788ms (retrying not needed)
+2026-04-06T02:30:15.000Z DEBUG http GET /health 200 3.7ms
+2026-04-06T02:30:16.500Z INFO  loaded payment batch=1011 rows=47
+2026-04-06T02:30:18.000Z INFO  loaded payment batch=1012 rows=31
+2026-04-06T02:30:19.500Z INFO  cache hit key=rates:49
+2026-04-06T02:30:21.000Z INFO  loaded payment batch=1014 rows=39
+2026-04-06T02:30:22.500Z INFO  loaded payment batch=1015 rows=45
+2026-04-06T02:30:24.000Z INFO  loaded payment batch=1016 rows=5
+2026-04-06T02:30:25.500Z WARN  slow query report_totals 983ms (retrying not needed)
+2026-04-06T02:30:27.000Z DEBUG gc pause 2.47ms
+2026-04-06T02:30:28.500Z WARN  slow query report_totals 684ms (retrying not needed)
+2026-04-06T02:30:30.000Z INFO  cache hit key=rates:56
+2026-04-06T02:30:31.500Z INFO  cache hit key=rates:57
+2026-04-06T02:30:33.000Z DEBUG http GET /health 200 1.8ms
+2026-04-06T02:30:34.500Z INFO  cache hit key=rates:59
+2026-04-06T02:30:36.000Z WARN  slow query report_totals 812ms (retrying not needed)
+2026-04-06T02:30:37.500Z DEBUG gc pause 2.91ms
+2026-04-06T02:30:39.000Z INFO  cache hit key=rates:62
+2026-04-06T02:30:40.500Z DEBUG gc pause 0.30ms
+2026-04-06T02:30:42.000Z INFO  Client A totals recomputed
+2026-04-06T02:30:43.500Z WARN  slow query report_totals 644ms (retrying not needed)
+2026-04-06T02:30:45.000Z DEBUG http GET /health 200 8.3ms
+2026-04-06T02:30:46.500Z INFO  cache hit key=rates:67
+2026-04-06T02:30:48.000Z INFO  cache hit key=rates:68
+2026-04-06T02:30:49.500Z INFO  cache hit key=rates:69
+2026-04-06T02:30:51.000Z INFO  Client C totals recomputed
+2026-04-06T02:30:52.500Z INFO  loaded payment batch=1035 rows=6
+2026-04-06T02:30:54.000Z DEBUG http GET /health 200 4.3ms
+2026-04-06T02:30:55.500Z DEBUG http GET /health 200 6.0ms
+2026-04-06T02:30:57.000Z DEBUG gc pause 0.73ms
+2026-04-06T02:30:58.500Z INFO  cache hit key=rates:75
+2026-04-06T02:31:00.000Z DEBUG gc pause 0.73ms
+2026-04-06T02:31:01.500Z DEBUG gc pause 0.61ms
+2026-04-06T02:31:03.000Z INFO  Client C totals recomputed
+2026-04-06T02:31:04.500Z WARN  slow query report_totals 681ms (retrying not needed)
+2026-04-06T02:31:06.000Z INFO  Client A totals recomputed
+2026-04-06T02:31:07.500Z INFO  cache hit key=rates:81
+2026-04-06T02:31:09.000Z DEBUG http GET /health 200 6.3ms
+2026-04-06T02:31:10.500Z DEBUG gc pause 2.91ms
+2026-04-06T02:31:12.000Z INFO  cache hit key=rates:84
+2026-04-06T02:31:13.500Z INFO  cache hit key=rates:85
+2026-04-06T02:31:15.000Z INFO  loaded payment batch=1010 rows=35
+2026-04-06T02:31:16.500Z WARN  slow query report_totals 850ms (retrying not needed)
+2026-04-06T02:31:18.000Z INFO  loaded payment batch=1012 rows=9
+2026-04-06T02:31:19.500Z INFO  Client B totals recomputed
+2026-04-06T02:31:21.000Z WARN  slow query report_totals 827ms (retrying not needed)
+2026-04-06T02:31:22.500Z WARN  slow query report_totals 946ms (retrying not needed)
+2026-04-06T02:31:24.000Z DEBUG gc pause 2.08ms
+2026-04-06T02:31:25.500Z DEBUG http GET /health 200 8.1ms
+2026-04-06T02:31:27.000Z INFO  Client C totals recomputed
+2026-04-06T02:31:28.500Z INFO  cache hit key=rates:95
+2026-04-06T02:31:30.000Z INFO  loaded payment batch=1020 rows=43
+2026-04-06T02:31:31.500Z WARN  slow query report_totals 979ms (retrying not needed)
+2026-04-06T02:31:33.000Z WARN  slow query report_totals 618ms (retrying not needed)
+2026-04-06T02:31:34.500Z INFO  Client D totals recomputed
+2026-04-06T02:31:36.000Z DEBUG gc pause 1.88ms
+2026-04-06T02:31:37.500Z INFO  Client B totals recomputed
+2026-04-06T02:31:39.000Z INFO  loaded payment batch=1026 rows=15
+2026-04-06T02:31:40.500Z INFO  loaded payment batch=1027 rows=7
+2026-04-06T02:31:42.000Z INFO  Client A totals recomputed
+2026-04-06T02:31:43.500Z DEBUG gc pause 2.84ms
+2026-04-06T02:31:45.000Z INFO  loaded payment batch=1030 rows=31
+2026-04-06T02:31:46.500Z DEBUG http GET /health 200 2.3ms
+2026-04-06T02:31:48.000Z WARN  slow query report_totals 665ms (retrying not needed)
+2026-04-06T02:31:49.500Z INFO  Client B totals recomputed
+2026-04-06T02:31:51.000Z INFO  cache hit key=rates:13
+2026-04-06T02:31:52.500Z INFO  loaded payment batch=1035 rows=11
+2026-04-06T02:31:54.000Z INFO  Client A totals recomputed
+2026-04-06T02:31:55.500Z DEBUG http GET /health 200 2.6ms
+2026-04-06T02:31:57.000Z WARN  slow query report_totals 898ms (retrying not needed)
+2026-04-06T02:31:58.500Z DEBUG gc pause 1.09ms
+2026-04-06T02:32:00.000Z DEBUG gc pause 2.91ms
+2026-04-06T02:32:01.500Z INFO  loaded payment batch=1001 rows=50
+2026-04-06T02:32:03.000Z INFO  Client C totals recomputed
+2026-04-06T02:32:04.500Z INFO  cache hit key=rates:22
+2026-04-06T02:32:06.000Z INFO  Client A totals recomputed
+2026-04-06T02:32:07.500Z DEBUG gc pause 0.45ms
+2026-04-06T02:32:09.000Z INFO  Client C totals recomputed
+2026-04-06T02:32:10.500Z INFO  Client D totals recomputed
+2026-04-06T02:32:12.000Z INFO  loaded payment batch=1008 rows=5
+2026-04-06T02:32:13.500Z WARN  slow query report_totals 694ms (retrying not needed)
+2026-04-06T02:32:15.000Z INFO  cache hit key=rates:29
+2026-04-06T02:32:16.500Z INFO  Client D totals recomputed
+2026-04-06T02:32:18.000Z INFO  loaded payment batch=1012 rows=11
+2026-04-06T02:32:19.500Z DEBUG http GET /health 200 1.4ms
+2026-04-06T02:32:21.000Z DEBUG http GET /health 200 6.1ms
+2026-04-06T02:32:22.500Z INFO  Client D totals recomputed
+2026-04-06T02:32:24.000Z INFO  cache hit key=rates:35
+2026-04-06T02:32:25.500Z INFO  cache hit key=rates:36
+2026-04-06T02:32:27.000Z INFO  Client C totals recomputed
+2026-04-06T02:32:28.500Z DEBUG gc pause 0.84ms
+2026-04-06T02:32:30.000Z DEBUG http GET /health 200 1.2ms
+2026-04-06T02:32:31.500Z INFO  Client B totals recomputed
+2026-04-06T02:32:33.000Z DEBUG gc pause 0.56ms
+2026-04-06T02:32:34.500Z INFO  loaded payment batch=1023 rows=16
+2026-04-06T02:32:36.000Z INFO  Client A totals recomputed
+2026-04-06T02:32:37.500Z INFO  cache hit key=rates:44
+2026-04-06T02:32:39.000Z WARN  slow query report_totals 855ms (retrying not needed)
+2026-04-06T02:32:40.500Z INFO  cache hit key=rates:46
+2026-04-06T02:32:42.000Z WARN  slow query report_totals 891ms (retrying not needed)
+2026-04-06T02:32:43.500Z WARN  slow query report_totals 833ms (retrying not needed)
+2026-04-06T02:32:45.000Z INFO  loaded payment batch=1030 rows=44
+2026-04-06T02:32:46.500Z INFO  cache hit key=rates:50
+2026-04-06T02:32:48.000Z INFO  Client A totals recomputed
+2026-04-06T02:32:49.500Z DEBUG http GET /health 200 1.4ms
+2026-04-06T02:32:51.000Z INFO  Client C totals recomputed
+2026-04-06T02:32:52.500Z DEBUG http GET /health 200 2.0ms
+2026-04-06T02:32:54.000Z INFO  cache hit key=rates:55
+2026-04-06T02:32:55.500Z INFO  cache hit key=rates:56
+2026-04-06T02:32:57.000Z DEBUG http GET /health 200 5.5ms
+2026-04-06T02:32:58.500Z WARN  slow query report_totals 720ms (retrying not needed)
+2026-04-06T02:33:00.000Z DEBUG http GET /health 200 7.0ms
+2026-04-06T02:33:01.500Z INFO  Client B totals recomputed
+2026-04-06T02:33:03.000Z INFO  loaded payment batch=1002 rows=28
+2026-04-06T02:33:04.500Z INFO  loaded payment batch=1003 rows=46
+2026-04-06T02:33:06.000Z DEBUG http GET /health 200 2.4ms
+2026-04-06T02:33:07.500Z DEBUG gc pause 1.80ms
+2026-04-06T02:33:09.000Z WARN  slow query report_totals 819ms (retrying not needed)
+2026-04-06T02:33:10.500Z WARN  slow query report_totals 772ms (retrying not needed)
+2026-04-06T02:33:12.000Z WARN  slow query report_totals 607ms (retrying not needed)
+2026-04-06T02:33:13.500Z WARN  slow query report_totals 876ms (retrying not needed)
+2026-04-06T02:33:15.000Z DEBUG http GET /health 200 2.7ms
+2026-04-06T02:33:16.500Z INFO  Client D totals recomputed
+2026-04-06T02:33:18.000Z INFO  Client A totals recomputed
+2026-04-06T02:33:19.500Z DEBUG http GET /health 200 9.8ms
+2026-04-06T02:33:21.000Z INFO  loaded payment batch=1014 rows=28
+2026-04-06T02:33:22.500Z INFO  Client D totals recomputed
+2026-04-06T02:33:24.000Z INFO  cache hit key=rates:75
+2026-04-06T02:33:25.500Z DEBUG http GET /health 200 4.8ms
+2026-04-06T02:33:27.000Z INFO  cache hit key=rates:77
+2026-04-06T02:33:28.500Z INFO  cache hit key=rates:78
+2026-04-06T02:33:30.000Z INFO  loaded payment batch=1020 rows=10
+2026-04-06T02:33:31.500Z WARN  slow query report_totals 828ms (retrying not needed)
+2026-04-06T02:33:33.000Z INFO  Client C totals recomputed
+2026-04-06T02:33:34.500Z WARN  slow query report_totals 922ms (retrying not needed)
+2026-04-06T02:33:36.000Z INFO  loaded payment batch=1024 rows=15
+2026-04-06T02:33:37.500Z WARN  slow query report_totals 702ms (retrying not needed)
+2026-04-06T02:33:39.000Z INFO  loaded payment batch=1026 rows=48
+2026-04-06T02:33:40.500Z DEBUG gc pause 1.39ms
+2026-04-06T02:33:42.000Z DEBUG http GET /health 200 8.7ms
+2026-04-06T02:33:43.500Z WARN  slow query report_totals 720ms (retrying not needed)
+2026-04-06T02:33:45.000Z WARN  slow query report_totals 883ms (retrying not needed)
+2026-04-06T02:33:46.500Z INFO  cache hit key=rates:90
+2026-04-06T02:33:48.000Z DEBUG gc pause 2.07ms
+2026-04-06T02:33:49.500Z INFO  loaded payment batch=1033 rows=4
+2026-04-06T02:33:51.000Z INFO  cache hit key=rates:93
+2026-04-06T02:33:52.500Z INFO  loaded payment batch=1035 rows=13
+2026-04-06T02:33:54.000Z DEBUG http GET /health 200 6.7ms
+2026-04-06T02:33:55.500Z WARN  slow query report_totals 814ms (retrying not needed)
+2026-04-06T02:33:57.000Z WARN  slow query report_totals 826ms (retrying not needed)
+2026-04-06T02:33:58.500Z WARN  slow query report_totals 661ms (retrying not needed)
+2026-04-06T02:34:00.000Z INFO  cache hit key=rates:2
+2026-04-06T02:34:01.500Z DEBUG http GET /health 200 7.3ms
+2026-04-06T02:34:03.000Z INFO  loaded payment batch=1002 rows=42
+2026-04-06T02:34:04.500Z INFO  loaded payment batch=1003 rows=2
+2026-04-06T02:34:06.000Z WARN  slow query report_totals 703ms (retrying not needed)
+2026-04-06T02:34:07.500Z INFO  Client B totals recomputed
+2026-04-06T02:34:09.000Z DEBUG gc pause 0.86ms
+2026-04-06T02:34:10.500Z INFO  cache hit key=rates:9
+2026-04-06T02:34:12.000Z DEBUG gc pause 2.07ms
+2026-04-06T02:34:13.500Z WARN  slow query report_totals 756ms (retrying not needed)
+2026-04-06T02:34:15.000Z INFO  loaded payment batch=1010 rows=50
+2026-04-06T02:34:16.500Z DEBUG http GET /health 200 1.9ms
+2026-04-06T02:34:18.000Z WARN  slow query report_totals 603ms (retrying not needed)
+2026-04-06T02:34:19.500Z INFO  Client B totals recomputed
+2026-04-06T02:34:21.000Z INFO  cache hit key=rates:16
+2026-04-06T02:34:22.500Z INFO  loaded payment batch=1015 rows=15
+2026-04-06T02:34:24.000Z WARN  slow query report_totals 632ms (retrying not needed)
+2026-04-06T02:34:25.500Z INFO  Client B totals recomputed
+2026-04-06T02:34:27.000Z DEBUG http GET /health 200 10.0ms
+2026-04-06T02:34:28.500Z DEBUG http GET /health 200 6.3ms
+2026-04-06T02:34:30.000Z WARN  slow query report_totals 905ms (retrying not needed)
+2026-04-06T02:34:31.500Z DEBUG gc pause 0.63ms
+2026-04-06T02:34:33.000Z DEBUG http GET /health 200 6.6ms
+2026-04-06T02:34:34.500Z WARN  slow query report_totals 819ms (retrying not needed)
+2026-04-06T02:34:36.000Z DEBUG http GET /health 200 3.1ms
+2026-04-06T02:34:37.500Z DEBUG http GET /health 200 8.9ms
+2026-04-06T02:34:39.000Z DEBUG gc pause 0.55ms
+2026-04-06T02:34:40.500Z INFO  Client D totals recomputed
+2026-04-06T02:34:42.000Z INFO  Client A totals recomputed
+2026-04-06T02:34:43.500Z INFO  loaded payment batch=1029 rows=11
+2026-04-06T02:34:45.000Z INFO  Client C totals recomputed
+2026-04-06T02:34:46.500Z WARN  slow query report_totals 738ms (retrying not needed)
+2026-04-06T02:34:48.000Z DEBUG http GET /health 200 8.2ms
+2026-04-06T02:34:49.500Z DEBUG http GET /health 200 8.8ms
+2026-04-06T02:34:51.000Z INFO  loaded payment batch=1034 rows=34
+2026-04-06T02:34:52.500Z INFO  Client D totals recomputed
+2026-04-06T02:34:54.000Z INFO  Client A totals recomputed
+2026-04-06T02:34:55.500Z INFO  Client B totals recomputed
+2026-04-06T02:34:57.000Z DEBUG gc pause 2.19ms
+2026-04-06T02:34:58.500Z INFO  loaded payment batch=1039 rows=28
+2026-04-06T02:35:00.000Z INFO  loaded payment batch=1000 rows=34
+2026-04-06T02:35:01.500Z INFO  loaded payment batch=1001 rows=49
+2026-04-06T02:35:03.000Z INFO  Client C totals recomputed
+2026-04-06T02:35:04.500Z INFO  Client D totals recomputed
+2026-04-06T02:35:06.000Z DEBUG http GET /health 200 8.6ms
+2026-04-06T02:35:07.500Z DEBUG gc pause 2.98ms
+2026-04-06T02:35:09.000Z WARN  slow query report_totals 622ms (retrying not needed)
+2026-04-06T02:35:10.500Z WARN  slow query report_totals 645ms (retrying not needed)
+2026-04-06T02:35:12.000Z INFO  cache hit key=rates:50
+2026-04-06T02:35:13.500Z DEBUG gc pause 0.11ms
+2026-04-06T02:35:15.000Z INFO  loaded payment batch=1010 rows=46
+2026-04-06T02:35:16.500Z WARN  slow query report_totals 918ms (retrying not needed)
+2026-04-06T02:35:18.000Z INFO  Client A totals recomputed
+2026-04-06T02:35:19.500Z INFO  Client B totals recomputed
+2026-04-06T02:35:21.000Z DEBUG gc pause 2.77ms
+2026-04-06T02:35:22.500Z DEBUG gc pause 0.94ms
+2026-04-06T02:35:24.000Z INFO  loaded payment batch=1016 rows=3
+2026-04-06T02:35:25.500Z WARN  slow query report_totals 898ms (retrying not needed)
+2026-04-06T02:35:27.000Z INFO  loaded payment batch=1018 rows=22
+2026-04-06T02:35:28.500Z INFO  cache hit key=rates:61
+2026-04-06T02:35:30.000Z WARN  slow query report_totals 680ms (retrying not needed)
+2026-04-06T02:35:31.500Z DEBUG gc pause 1.15ms
+2026-04-06T02:35:33.000Z INFO  Client C totals recomputed
+2026-04-06T02:35:34.500Z ERROR year-end check failed: Client B payment paidOn=2026-04-05 filed under 2026/27, expected 2025/26 (taxYear boundary)
+2026-04-06T02:35:36.000Z INFO  Client A totals recomputed
+2026-04-06T02:35:37.500Z DEBUG http GET /health 200 8.8ms
+2026-04-06T02:35:39.000Z INFO  cache hit key=rates:68
+2026-04-06T02:35:40.500Z DEBUG gc pause 2.33ms
+2026-04-06T02:35:42.000Z DEBUG gc pause 1.88ms
+2026-04-06T02:35:43.500Z DEBUG gc pause 2.15ms
+2026-04-06T02:35:45.000Z INFO  Client C totals recomputed
+2026-04-06T02:35:46.500Z DEBUG http GET /health 200 9.9ms
+2026-04-06T02:35:48.000Z INFO  loaded payment batch=1032 rows=16
+2026-04-06T02:35:49.500Z WARN  slow query report_totals 632ms (retrying not needed)
+2026-04-06T02:35:51.000Z INFO  loaded payment batch=1034 rows=11
+2026-04-06T02:35:52.500Z INFO  loaded payment batch=1035 rows=35
+2026-04-06T02:35:54.000Z DEBUG http GET /health 200 4.6ms
+2026-04-06T02:35:55.500Z INFO  loaded payment batch=1037 rows=21
+2026-04-06T02:35:57.000Z DEBUG gc pause 1.56ms
+2026-04-06T02:35:58.500Z DEBUG gc pause 2.15ms
+2026-04-06T02:36:00.000Z DEBUG gc pause 1.80ms
+2026-04-06T02:36:01.500Z DEBUG gc pause 0.32ms
+2026-04-06T02:36:03.000Z INFO  cache hit key=rates:84
+2026-04-06T02:36:04.500Z INFO  Client D totals recomputed
+2026-04-06T02:36:06.000Z INFO  Client A totals recomputed
+2026-04-06T02:36:07.500Z WARN  slow query report_totals 905ms (retrying not needed)
+2026-04-06T02:36:09.000Z WARN  slow query report_totals 943ms (retrying not needed)
+2026-04-06T02:36:10.500Z INFO  Client D totals recomputed
+2026-04-06T02:36:12.000Z DEBUG http GET /health 200 4.3ms
+2026-04-06T02:36:13.500Z DEBUG gc pause 2.75ms
+2026-04-06T02:36:15.000Z INFO  cache hit key=rates:92
+2026-04-06T02:36:16.500Z DEBUG gc pause 0.76ms
+2026-04-06T02:36:18.000Z DEBUG gc pause 1.17ms
+2026-04-06T02:36:19.500Z INFO  Client B totals recomputed
+2026-04-06T02:36:21.000Z INFO  Client C totals recomputed
+2026-04-06T02:36:22.500Z INFO  loaded payment batch=1015 rows=44
+2026-04-06T02:36:24.000Z DEBUG http GET /health 200 2.4ms
+2026-04-06T02:36:25.500Z WARN  slow query report_totals 767ms (retrying not needed)
+2026-04-06T02:36:27.000Z DEBUG gc pause 2.68ms
+2026-04-06T02:36:28.500Z WARN  slow query report_totals 964ms (retrying not needed)
+2026-04-06T02:36:30.000Z WARN  slow query report_totals 935ms (retrying not needed)
+2026-04-06T02:36:31.500Z INFO  cache hit key=rates:6
+2026-04-06T02:36:33.000Z DEBUG gc pause 2.32ms
+2026-04-06T02:36:34.500Z WARN  slow query report_totals 610ms (retrying not needed)
+2026-04-06T02:36:36.000Z DEBUG gc pause 2.27ms
+2026-04-06T02:36:37.500Z INFO  loaded payment batch=1025 rows=41
+2026-04-06T02:36:39.000Z INFO  cache hit key=rates:11
+2026-04-06T02:36:40.500Z WARN  slow query report_totals 860ms (retrying not needed)
+2026-04-06T02:36:42.000Z INFO  cache hit key=rates:13
+2026-04-06T02:36:43.500Z INFO  loaded payment batch=1029 rows=45
+2026-04-06T02:36:45.000Z INFO  Client C totals recomputed
+2026-04-06T02:36:46.500Z WARN  slow query report_totals 704ms (retrying not needed)
+2026-04-06T02:36:48.000Z DEBUG gc pause 0.90ms
+2026-04-06T02:36:49.500Z WARN  slow query report_totals 972ms (retrying not needed)
+2026-04-06T02:36:51.000Z INFO  cache hit key=rates:19
+2026-04-06T02:36:52.500Z INFO  cache hit key=rates:20
+2026-04-06T02:36:54.000Z WARN  slow query report_totals 740ms (retrying not needed)
+2026-04-06T02:36:55.500Z INFO  loaded payment batch=1037 rows=33
+2026-04-06T02:36:57.000Z INFO  Client C totals recomputed
+2026-04-06T02:36:58.500Z DEBUG http GET /health 200 4.1ms
+2026-04-06T02:37:00.000Z WARN  slow query report_totals 636ms (retrying not needed)
+2026-04-06T02:37:01.500Z DEBUG http GET /health 200 6.8ms
+2026-04-06T02:37:03.000Z INFO  cache hit key=rates:27
+2026-04-06T02:37:04.500Z DEBUG http GET /health 200 5.0ms
+2026-04-06T02:37:06.000Z INFO  cache hit key=rates:29
+2026-04-06T02:37:07.500Z INFO  loaded payment batch=1005 rows=20
+2026-04-06T02:37:09.000Z DEBUG gc pause 1.68ms
+2026-04-06T02:37:10.500Z WARN  slow query report_totals 679ms (retrying not needed)
+2026-04-06T02:37:12.000Z WARN  slow query report_totals 701ms (retrying not needed)
+2026-04-06T02:37:13.500Z INFO  Client B totals recomputed
+2026-04-06T02:37:15.000Z DEBUG http GET /health 200 7.8ms
+2026-04-06T02:37:16.500Z INFO  cache hit key=rates:36
+2026-04-06T02:37:18.000Z INFO  cache hit key=rates:37
+2026-04-06T02:37:19.500Z DEBUG gc pause 0.38ms
+2026-04-06T02:37:21.000Z WARN  slow query report_totals 849ms (retrying not needed)
+2026-04-06T02:37:22.500Z WARN  slow query report_totals 803ms (retrying not needed)
+2026-04-06T02:37:24.000Z INFO  loaded payment batch=1016 rows=17
+2026-04-06T02:37:25.500Z INFO  cache hit key=rates:42
+2026-04-06T02:37:27.000Z INFO  loaded payment batch=1018 rows=47
+2026-04-06T02:37:28.500Z INFO  loaded payment batch=1019 rows=20
+2026-04-06T02:37:30.000Z INFO  Client A totals recomputed
+2026-04-06T02:37:31.500Z WARN  slow query report_totals 760ms (retrying not needed)
+2026-04-06T02:37:33.000Z INFO  cache hit key=rates:47
+2026-04-06T02:37:34.500Z WARN  slow query report_totals 764ms (retrying not needed)
+2026-04-06T02:37:36.000Z INFO  cache hit key=rates:49
+2026-04-06T02:37:37.500Z INFO  cache hit key=rates:50
+2026-04-06T02:37:39.000Z WARN  slow query report_totals 977ms (retrying not needed)
+2026-04-06T02:37:40.500Z INFO  Client D totals recomputed
+2026-04-06T02:37:42.000Z WARN  slow query report_totals 906ms (retrying not needed)
+2026-04-06T02:37:43.500Z INFO  loaded payment batch=1029 rows=34
+2026-04-06T02:37:45.000Z DEBUG http GET /health 200 6.2ms
+2026-04-06T02:37:46.500Z INFO  loaded payment batch=1031 rows=19
+2026-04-06T02:37:48.000Z DEBUG gc pause 1.33ms
+2026-04-06T02:37:49.500Z WARN  slow query report_totals 854ms (retrying not needed)
+2026-04-06T02:37:51.000Z DEBUG gc pause 1.08ms
+2026-04-06T02:37:52.500Z INFO  cache hit key=rates:60
+2026-04-06T02:37:54.000Z INFO  loaded payment batch=1036 rows=50
+2026-04-06T02:37:55.500Z DEBUG http GET /health 200 1.3ms
+2026-04-06T02:37:57.000Z INFO  cache hit key=rates:63
+2026-04-06T02:37:58.500Z DEBUG http GET /health 200 4.3ms
+2026-04-06T02:38:00.000Z INFO  loaded payment batch=1000 rows=14
+2026-04-06T02:38:01.500Z DEBUG gc pause 1.36ms
+2026-04-06T02:38:03.000Z DEBUG gc pause 1.12ms
+2026-04-06T02:38:04.500Z INFO  cache hit key=rates:68
+2026-04-06T02:38:06.000Z INFO  loaded payment batch=1004 rows=9
+2026-04-06T02:38:07.500Z INFO  cache hit key=rates:70
+2026-04-06T02:38:09.000Z DEBUG http GET /health 200 7.6ms
+2026-04-06T02:38:10.500Z DEBUG gc pause 0.25ms
+2026-04-06T02:38:12.000Z INFO  loaded payment batch=1008 rows=29
+2026-04-06T02:38:13.500Z DEBUG gc pause 0.47ms
+2026-04-06T02:38:15.000Z DEBUG http GET /health 200 1.5ms
+2026-04-06T02:38:16.500Z INFO  Client D totals recomputed
+2026-04-06T02:38:18.000Z INFO  loaded payment batch=1012 rows=14
+2026-04-06T02:38:19.500Z INFO  loaded payment batch=1013 rows=39
+2026-04-06T02:38:21.000Z INFO  cache hit key=rates:79
+2026-04-06T02:38:22.500Z DEBUG http GET /health 200 1.7ms
+2026-04-06T02:38:24.000Z INFO  loaded payment batch=1016 rows=6
+2026-04-06T02:38:25.500Z WARN  slow query report_totals 723ms (retrying not needed)
+2026-04-06T02:38:27.000Z INFO  cache hit key=rates:83
+2026-04-06T02:38:28.500Z INFO  Client D totals recomputed
+2026-04-06T02:38:30.000Z WARN  slow query report_totals 955ms (retrying not needed)
+2026-04-06T02:38:31.500Z WARN  slow query report_totals 723ms (retrying not needed)
+2026-04-06T02:38:33.000Z INFO  loaded payment batch=1022 rows=1
+2026-04-06T02:38:34.500Z DEBUG gc pause 3.00ms
+2026-04-06T02:38:36.000Z DEBUG http GET /health 200 2.6ms
+2026-04-06T02:38:37.500Z DEBUG http GET /health 200 4.7ms
+2026-04-06T02:38:39.000Z DEBUG http GET /health 200 1.7ms
+2026-04-06T02:38:40.500Z INFO  Client D totals recomputed
+2026-04-06T02:38:42.000Z WARN  slow query report_totals 657ms (retrying not needed)
+2026-04-06T02:38:43.500Z INFO  cache hit key=rates:94
+2026-04-06T02:38:45.000Z WARN  slow query report_totals 856ms (retrying not needed)
+2026-04-06T02:38:46.500Z INFO  Client D totals recomputed
+2026-04-06T02:38:48.000Z INFO  cache hit key=rates:0
+2026-04-06T02:38:49.500Z WARN  slow query report_totals 651ms (retrying not needed)
+2026-04-06T02:38:51.000Z INFO  cache hit key=rates:2
+2026-04-06T02:38:52.500Z WARN  slow query report_totals 847ms (retrying not needed)
+2026-04-06T02:38:54.000Z WARN  slow query report_totals 841ms (retrying not needed)
+2026-04-06T02:38:55.500Z INFO  Client B totals recomputed
+2026-04-06T02:38:57.000Z INFO  Client C totals recomputed
+2026-04-06T02:38:58.500Z DEBUG gc pause 0.93ms
+2026-04-06T02:39:00.000Z WARN  slow query report_totals 881ms (retrying not needed)
+2026-04-06T02:39:01.500Z INFO  Client B totals recomputed
+2026-04-06T02:39:03.000Z INFO  cache hit key=rates:10
+2026-04-06T02:39:04.500Z INFO  Client D totals recomputed
+2026-04-06T02:39:06.000Z INFO  loaded payment batch=1004 rows=39
+2026-04-06T02:39:07.500Z INFO  Client B totals recomputed
+2026-04-06T02:39:09.000Z INFO  loaded payment batch=1006 rows=22
+2026-04-06T02:39:10.500Z WARN  slow query report_totals 670ms (retrying not needed)
+2026-04-06T02:39:12.000Z WARN  slow query report_totals 682ms (retrying not needed)
+2026-04-06T02:39:13.500Z WARN  slow query report_totals 876ms (retrying not needed)
+2026-04-06T02:39:15.000Z INFO  Client C totals recomputed
+2026-04-06T02:39:16.500Z DEBUG http GET /health 200 2.8ms
+2026-04-06T02:39:18.000Z WARN  slow query report_totals 799ms (retrying not needed)
+2026-04-06T02:39:19.500Z INFO  loaded payment batch=1013 rows=3
+2026-04-06T02:39:21.000Z WARN  slow query report_totals 910ms (retrying not needed)
+2026-04-06T02:39:22.500Z DEBUG http GET /health 200 7.3ms
+2026-04-06T02:39:24.000Z DEBUG gc pause 0.98ms
+2026-04-06T02:39:25.500Z DEBUG gc pause 1.01ms
+2026-04-06T02:39:27.000Z INFO  loaded payment batch=1018 rows=48
+2026-04-06T02:39:28.500Z DEBUG gc pause 2.48ms
+2026-04-06T02:39:30.000Z INFO  Client A totals recomputed
+2026-04-06T02:39:31.500Z INFO  loaded payment batch=1021 rows=1
+2026-04-06T02:39:33.000Z INFO  loaded payment batch=1022 rows=25
+2026-04-06T02:39:34.500Z DEBUG gc pause 0.00ms
+2026-04-06T02:39:36.000Z INFO  Client A totals recomputed
+2026-04-06T02:39:37.500Z INFO  Client B totals recomputed
+2026-04-06T02:39:39.000Z DEBUG gc pause 0.52ms
+2026-04-06T02:39:40.500Z INFO  loaded payment batch=1027 rows=11
+2026-04-06T02:39:42.000Z DEBUG http GET /health 200 6.6ms
+2026-04-06T02:39:43.500Z DEBUG http GET /health 200 6.3ms
+2026-04-06T02:39:45.000Z INFO  Client C totals recomputed
+2026-04-06T02:39:46.500Z DEBUG gc pause 0.86ms
+2026-04-06T02:39:48.000Z INFO  loaded payment batch=1032 rows=33
+2026-04-06T02:39:49.500Z WARN  slow query report_totals 961ms (retrying not needed)
+2026-04-06T02:39:51.000Z INFO  cache hit key=rates:42
+2026-04-06T02:39:52.500Z INFO  Client D totals recomputed
+2026-04-06T02:39:54.000Z INFO  cache hit key=rates:44
+2026-04-06T02:39:55.500Z DEBUG gc pause 1.49ms
+2026-04-06T02:39:57.000Z DEBUG gc pause 2.02ms
+2026-04-06T02:39:58.500Z INFO  cache hit key=rates:47
+2026-04-06T02:40:00.000Z INFO  loaded payment batch=1000 rows=18
+2026-04-06T02:40:01.500Z DEBUG gc pause 2.43ms
+2026-04-06T02:40:03.000Z WARN  slow query report_totals 975ms (retrying not needed)
+2026-04-06T02:40:04.500Z DEBUG gc pause 2.92ms
+2026-04-06T02:40:06.000Z INFO  Client A totals recomputed
+2026-04-06T02:40:07.500Z INFO  cache hit key=rates:53
+2026-04-06T02:40:09.000Z INFO  cache hit key=rates:54
+2026-04-06T02:40:10.500Z INFO  loaded payment batch=1007 rows=41
+2026-04-06T02:40:12.000Z INFO  Client A totals recomputed
+2026-04-06T02:40:13.500Z DEBUG gc pause 0.26ms
+2026-04-06T02:40:15.000Z INFO  loaded payment batch=1010 rows=42
+2026-04-06T02:40:16.500Z INFO  cache hit key=rates:59
+2026-04-06T02:40:18.000Z DEBUG gc pause 1.29ms
+2026-04-06T02:40:19.500Z DEBUG gc pause 1.00ms
+2026-04-06T02:40:21.000Z INFO  cache hit key=rates:62
+2026-04-06T02:40:22.500Z INFO  loaded payment batch=1015 rows=34
+2026-04-06T02:40:24.000Z WARN  slow query report_totals 779ms (retrying not needed)
+2026-04-06T02:40:25.500Z INFO  cache hit key=rates:65
+2026-04-06T02:40:27.000Z DEBUG gc pause 1.94ms
+2026-04-06T02:40:28.500Z INFO  cache hit key=rates:67
+2026-04-06T02:40:30.000Z INFO  cache hit key=rates:68
+2026-04-06T02:40:31.500Z INFO  cache hit key=rates:69
+2026-04-06T02:40:33.000Z INFO  Client C totals recomputed
+2026-04-06T02:40:34.500Z INFO  cache hit key=rates:71
+2026-04-06T02:40:36.000Z INFO  cache hit key=rates:72
+2026-04-06T02:40:37.500Z WARN  slow query report_totals 740ms (retrying not needed)
+2026-04-06T02:40:39.000Z INFO  Client C totals recomputed
+2026-04-06T02:40:40.500Z WARN  slow query report_totals 873ms (retrying not needed)
+2026-04-06T02:40:42.000Z DEBUG http GET /health 200 8.3ms
+2026-04-06T02:40:43.500Z WARN  slow query report_totals 841ms (retrying not needed)
+2026-04-06T02:40:45.000Z INFO  cache hit key=rates:78
+2026-04-06T02:40:46.500Z DEBUG gc pause 0.88ms
+2026-04-06T02:40:48.000Z DEBUG gc pause 0.24ms
+2026-04-06T02:40:49.500Z INFO  Client B totals recomputed
+2026-04-06T02:40:51.000Z WARN  slow query report_totals 820ms (retrying not needed)
+2026-04-06T02:40:52.500Z INFO  cache hit key=rates:83
+2026-04-06T02:40:54.000Z INFO  Client A totals recomputed
+2026-04-06T02:40:55.500Z INFO  loaded payment batch=1037 rows=31
+2026-04-06T02:40:57.000Z DEBUG gc pause 2.80ms
+2026-04-06T02:40:58.500Z DEBUG gc pause 1.38ms
+2026-04-06T02:41:00.000Z INFO  cache hit key=rates:88
+2026-04-06T02:41:01.500Z DEBUG gc pause 1.18ms
+2026-04-06T02:41:03.000Z INFO  cache hit key=rates:90
+2026-04-06T02:41:04.500Z INFO  cache hit key=rates:91
+2026-04-06T02:41:06.000Z INFO  Client A totals recomputed
+2026-04-06T02:41:07.500Z DEBUG http GET /health 200 2.5ms
+2026-04-06T02:41:09.000Z INFO  Client C totals recomputed
+2026-04-06T02:41:10.500Z INFO  Client D totals recomputed
+2026-04-06T02:41:12.000Z WARN  slow query report_totals 813ms (retrying not needed)
+2026-04-06T02:41:13.500Z DEBUG gc pause 2.21ms
+2026-04-06T02:41:15.000Z INFO  cache hit key=rates:1
+2026-04-06T02:41:16.500Z INFO  cache hit key=rates:2
+2026-04-06T02:41:18.000Z INFO  cache hit key=rates:3
+2026-04-06T02:41:19.500Z DEBUG http GET /health 200 3.8ms
+2026-04-06T02:41:21.000Z DEBUG http GET /health 200 4.6ms
+2026-04-06T02:41:22.500Z DEBUG gc pause 2.52ms
+2026-04-06T02:41:24.000Z INFO  loaded payment batch=1016 rows=10
+2026-04-06T02:41:25.500Z INFO  loaded payment batch=1017 rows=18
+2026-04-06T02:41:27.000Z INFO  Client C totals recomputed
+2026-04-06T02:41:28.500Z INFO  loaded payment batch=1019 rows=42
+2026-04-06T02:41:30.000Z INFO  loaded payment batch=1020 rows=49
+2026-04-06T02:41:31.500Z DEBUG http GET /health 200 6.1ms
+2026-04-06T02:41:33.000Z INFO  cache hit key=rates:13
+2026-04-06T02:41:34.500Z WARN  slow query report_totals 644ms (retrying not needed)
+2026-04-06T02:41:36.000Z WARN  slow query report_totals 730ms (retrying not needed)
+2026-04-06T02:41:37.500Z INFO  loaded payment batch=1025 rows=34
+2026-04-06T02:41:39.000Z DEBUG gc pause 2.05ms
+2026-04-06T02:41:40.500Z INFO  loaded payment batch=1027 rows=36
+2026-04-06T02:41:42.000Z INFO  loaded payment batch=1028 rows=19
+2026-04-06T02:41:43.500Z WARN  slow query report_totals 849ms (retrying not needed)
+2026-04-06T02:41:45.000Z WARN  slow query report_totals 771ms (retrying not needed)
+2026-04-06T02:41:46.500Z DEBUG http GET /health 200 5.2ms
+2026-04-06T02:41:48.000Z WARN  slow query report_totals 947ms (retrying not needed)
+2026-04-06T02:41:49.500Z WARN  slow query report_totals 876ms (retrying not needed)
+2026-04-06T02:41:51.000Z INFO  loaded payment batch=1034 rows=28
+2026-04-06T02:41:52.500Z DEBUG http GET /health 200 9.4ms
+2026-04-06T02:41:54.000Z DEBUG http GET /health 200 2.5ms
+2026-04-06T02:41:55.500Z DEBUG gc pause 1.42ms
+2026-04-06T02:41:57.000Z INFO  cache hit key=rates:29
+2026-04-06T02:41:58.500Z WARN  slow query report_totals 906ms (retrying not needed)
+2026-04-06T02:42:00.000Z INFO  cache hit key=rates:31
+2026-04-06T02:42:01.500Z DEBUG http GET /health 200 9.0ms
+2026-04-06T02:42:03.000Z DEBUG gc pause 0.15ms
+2026-04-06T02:42:04.500Z INFO  Client D totals recomputed
+2026-04-06T02:42:06.000Z INFO  cache hit key=rates:35
+2026-04-06T02:42:07.500Z DEBUG http GET /health 200 6.0ms
+2026-04-06T02:42:09.000Z INFO  Client C totals recomputed
+2026-04-06T02:42:10.500Z INFO  loaded payment batch=1007 rows=33
+2026-04-06T02:42:12.000Z DEBUG http GET /health 200 7.1ms
+2026-04-06T02:42:13.500Z DEBUG http GET /health 200 9.2ms
+2026-04-06T02:42:15.000Z DEBUG gc pause 0.06ms
+2026-04-06T02:42:16.500Z INFO  Client D totals recomputed
+2026-04-06T02:42:18.000Z WARN  slow query report_totals 605ms (retrying not needed)
+2026-04-06T02:42:19.500Z DEBUG gc pause 0.66ms
+2026-04-06T02:42:21.000Z INFO  Client C totals recomputed
+2026-04-06T02:42:22.500Z DEBUG http GET /health 200 4.4ms
+2026-04-06T02:42:24.000Z INFO  cache hit key=rates:47
+2026-04-06T02:42:25.500Z INFO  cache hit key=rates:48
+2026-04-06T02:42:27.000Z DEBUG http GET /health 200 8.6ms
+2026-04-06T02:42:28.500Z INFO  Client D totals recomputed
+2026-04-06T02:42:30.000Z INFO  cache hit key=rates:51
+2026-04-06T02:42:31.500Z DEBUG http GET /health 200 8.5ms
+2026-04-06T02:42:33.000Z INFO  cache hit key=rates:53
+2026-04-06T02:42:34.500Z INFO  cache hit key=rates:54
+2026-04-06T02:42:36.000Z DEBUG gc pause 0.86ms
+2026-04-06T02:42:37.500Z INFO  Client B totals recomputed
+2026-04-06T02:42:39.000Z INFO  loaded payment batch=1026 rows=39
+2026-04-06T02:42:40.500Z DEBUG http GET /health 200 9.3ms
+2026-04-06T02:42:42.000Z INFO  loaded payment batch=1028 rows=45
+2026-04-06T02:42:43.500Z INFO  loaded payment batch=1029 rows=13
+2026-04-06T02:42:45.000Z DEBUG http GET /health 200 3.2ms
+2026-04-06T02:42:46.500Z INFO  Client D totals recomputed
+2026-04-06T02:42:48.000Z DEBUG http GET /health 200 2.8ms
+2026-04-06T02:42:49.500Z WARN  slow query report_totals 859ms (retrying not needed)
+2026-04-06T02:42:51.000Z DEBUG http GET /health 200 1.8ms
+2026-04-06T02:42:52.500Z INFO  loaded payment batch=1035 rows=7
+2026-04-06T02:42:54.000Z INFO  loaded payment batch=1036 rows=35
+2026-04-06T02:42:55.500Z INFO  Client B totals recomputed
+2026-04-06T02:42:57.000Z INFO  loaded payment batch=1038 rows=50
+2026-04-06T02:42:58.500Z INFO  Client D totals recomputed
+2026-04-06T02:43:00.000Z INFO  loaded payment batch=1000 rows=3
+2026-04-06T02:43:01.500Z WARN  slow query report_totals 717ms (retrying not needed)
+2026-04-06T02:43:03.000Z INFO  Client C totals recomputed
+2026-04-06T02:43:04.500Z INFO  Client D totals recomputed
+2026-04-06T02:43:06.000Z WARN  slow query report_totals 610ms (retrying not needed)
+2026-04-06T02:43:07.500Z WARN  slow query report_totals 784ms (retrying not needed)
+2026-04-06T02:43:09.000Z WARN  slow query report_totals 688ms (retrying not needed)
+2026-04-06T02:43:10.500Z WARN  slow query report_totals 831ms (retrying not needed)
+2026-04-06T02:43:12.000Z INFO  cache hit key=rates:79
+2026-04-06T02:43:13.500Z INFO  cache hit key=rates:80
+2026-04-06T02:43:15.000Z INFO  cache hit key=rates:81
+2026-04-06T02:43:16.500Z INFO  loaded payment batch=1011 rows=42
+2026-04-06T02:43:18.000Z INFO  loaded payment batch=1012 rows=41
+2026-04-06T02:43:19.500Z WARN  slow query report_totals 852ms (retrying not needed)
+2026-04-06T02:43:21.000Z INFO  Client C totals recomputed
+2026-04-06T02:43:22.500Z DEBUG gc pause 2.90ms
+2026-04-06T02:43:24.000Z INFO  loaded payment batch=1016 rows=40
+2026-04-06T02:43:25.500Z DEBUG http GET /health 200 9.6ms
+2026-04-06T02:43:27.000Z DEBUG http GET /health 200 1.4ms
+2026-04-06T02:43:28.500Z INFO  Client D totals recomputed
+2026-04-06T02:43:30.000Z WARN  slow query report_totals 654ms (retrying not needed)
+2026-04-06T02:43:31.500Z DEBUG gc pause 0.70ms
+2026-04-06T02:43:33.000Z INFO  loaded payment batch=1022 rows=25
+2026-04-06T02:43:34.500Z INFO  cache hit key=rates:94
+2026-04-06T02:43:36.000Z INFO  cache hit key=rates:95
+2026-04-06T02:43:37.500Z WARN  slow query report_totals 863ms (retrying not needed)
+2026-04-06T02:43:39.000Z INFO  Client C totals recomputed
+2026-04-06T02:43:40.500Z INFO  cache hit key=rates:1
+2026-04-06T02:43:42.000Z INFO  cache hit key=rates:2
+2026-04-06T02:43:43.500Z WARN  slow query report_totals 665ms (retrying not needed)
+2026-04-06T02:43:45.000Z INFO  loaded payment batch=1030 rows=14
+2026-04-06T02:43:46.500Z INFO  cache hit key=rates:5
+2026-04-06T02:43:48.000Z INFO  Client A totals recomputed
+2026-04-06T02:43:49.500Z INFO  cache hit key=rates:7
+2026-04-06T02:43:51.000Z INFO  cache hit key=rates:8
+2026-04-06T02:43:52.500Z DEBUG gc pause 2.34ms
+2026-04-06T02:43:54.000Z INFO  Client A totals recomputed
+2026-04-06T02:43:55.500Z WARN  slow query report_totals 932ms (retrying not needed)
+2026-04-06T02:43:57.000Z INFO  loaded payment batch=1038 rows=42
+2026-04-06T02:43:58.500Z DEBUG http GET /health 200 9.1ms
+2026-04-06T02:44:00.000Z DEBUG http GET /health 200 9.5ms
+2026-04-06T02:44:01.500Z DEBUG gc pause 1.92ms
+2026-04-06T02:44:03.000Z DEBUG gc pause 2.85ms
+2026-04-06T02:44:04.500Z INFO  loaded payment batch=1003 rows=36
+2026-04-06T02:44:06.000Z INFO  loaded payment batch=1004 rows=1
+2026-04-06T02:44:07.500Z INFO  Client B totals recomputed
+2026-04-06T02:44:09.000Z DEBUG http GET /health 200 2.6ms
+2026-04-06T02:44:10.500Z INFO  loaded payment batch=1007 rows=37
+2026-04-06T02:44:12.000Z DEBUG http GET /health 200 3.9ms
+2026-04-06T02:44:13.500Z DEBUG gc pause 1.51ms
+2026-04-06T02:44:15.000Z DEBUG gc pause 1.46ms
+2026-04-06T02:44:16.500Z INFO  cache hit key=rates:25
+2026-04-06T02:44:18.000Z DEBUG http GET /health 200 3.0ms
+2026-04-06T02:44:19.500Z DEBUG http GET /health 200 3.9ms
+2026-04-06T02:44:21.000Z INFO  Client C totals recomputed
+2026-04-06T02:44:22.500Z WARN  slow query report_totals 624ms (retrying not needed)
+2026-04-06T02:44:24.000Z WARN  slow query report_totals 606ms (retrying not needed)
+2026-04-06T02:44:25.500Z DEBUG gc pause 2.81ms
+2026-04-06T02:44:27.000Z DEBUG gc pause 2.16ms
+2026-04-06T02:44:28.500Z INFO  Client D totals recomputed
+2026-04-06T02:44:30.000Z INFO  Client A totals recomputed
+2026-04-06T02:44:31.500Z INFO  loaded payment batch=1021 rows=7
+2026-04-06T02:44:33.000Z INFO  loaded payment batch=1022 rows=29
+2026-04-06T02:44:34.500Z INFO  loaded payment batch=1023 rows=11
+2026-04-06T02:44:36.000Z INFO  cache hit key=rates:38
+2026-04-06T02:44:37.500Z INFO  cache hit key=rates:39
+2026-04-06T02:44:39.000Z INFO  cache hit key=rates:40
+2026-04-06T02:44:40.500Z DEBUG http GET /health 200 4.7ms
+2026-04-06T02:44:42.000Z DEBUG gc pause 1.06ms
+2026-04-06T02:44:43.500Z INFO  cache hit key=rates:43
+2026-04-06T02:44:45.000Z DEBUG http GET /health 200 6.6ms
+2026-04-06T02:44:46.500Z WARN  slow query report_totals 668ms (retrying not needed)
+2026-04-06T02:44:48.000Z INFO  Client A totals recomputed
+2026-04-06T02:44:49.500Z INFO  Client B totals recomputed
+2026-04-06T02:44:51.000Z INFO  loaded payment batch=1034 rows=35
+2026-04-06T02:44:52.500Z INFO  cache hit key=rates:49
+2026-04-06T02:44:54.000Z INFO  Client A totals recomputed
+2026-04-06T02:44:55.500Z INFO  cache hit key=rates:51
+2026-04-06T02:44:57.000Z WARN  slow query report_totals 663ms (retrying not needed)
+2026-04-06T02:44:58.500Z INFO  cache hit key=rates:53
+2026-04-06T02:45:00.000Z DEBUG gc pause 1.16ms
+2026-04-06T02:45:01.500Z DEBUG http GET /health 200 9.6ms
+2026-04-06T02:45:03.000Z INFO  loaded payment batch=1002 rows=23
+2026-04-06T02:45:04.500Z INFO  loaded payment batch=1003 rows=33
+2026-04-06T02:45:06.000Z DEBUG gc pause 2.73ms
+2026-04-06T02:45:07.500Z DEBUG gc pause 2.29ms
+2026-04-06T02:45:09.000Z DEBUG http GET /health 200 6.9ms
+2026-04-06T02:45:10.500Z DEBUG http GET /health 200 4.3ms
+2026-04-06T02:45:12.000Z INFO  loaded payment batch=1008 rows=35
+2026-04-06T02:45:13.500Z DEBUG gc pause 2.53ms
+2026-04-06T02:45:15.000Z INFO  loaded payment batch=1010 rows=15
+2026-04-06T02:45:16.500Z INFO  Client D totals recomputed
+2026-04-06T02:45:18.000Z INFO  loaded payment batch=1012 rows=8
+2026-04-06T02:45:19.500Z INFO  loaded payment batch=1013 rows=6
+2026-04-06T02:45:21.000Z DEBUG http GET /health 200 1.3ms
+2026-04-06T02:45:22.500Z WARN  slow query report_totals 939ms (retrying not needed)
+2026-04-06T02:45:24.000Z INFO  loaded payment batch=1016 rows=4
+2026-04-06T02:45:25.500Z INFO  loaded payment batch=1017 rows=21
+2026-04-06T02:45:27.000Z INFO  Client C totals recomputed
+2026-04-06T02:45:28.500Z DEBUG gc pause 2.06ms
+2026-04-06T02:45:30.000Z INFO  Client A totals recomputed
+2026-04-06T02:45:31.500Z INFO  cache hit key=rates:75
+2026-04-06T02:45:33.000Z WARN  slow query report_totals 972ms (retrying not needed)
+2026-04-06T02:45:34.500Z INFO  Client D totals recomputed
+2026-04-06T02:45:36.000Z WARN  slow query report_totals 680ms (retrying not needed)
+2026-04-06T02:45:37.500Z INFO  Client B totals recomputed
+2026-04-06T02:45:39.000Z INFO  loaded payment batch=1026 rows=14
+2026-04-06T02:45:40.500Z WARN  slow query report_totals 885ms (retrying not needed)
+2026-04-06T02:45:42.000Z WARN  slow query report_totals 832ms (retrying not needed)
+2026-04-06T02:45:43.500Z INFO  cache hit key=rates:83
+2026-04-06T02:45:45.000Z INFO  loaded payment batch=1030 rows=17
+2026-04-06T02:45:46.500Z WARN  slow query report_totals 701ms (retrying not needed)
+2026-04-06T02:45:48.000Z WARN  slow query report_totals 989ms (retrying not needed)
+2026-04-06T02:45:49.500Z DEBUG http GET /health 200 9.3ms
+2026-04-06T02:45:51.000Z DEBUG http GET /health 200 4.9ms
+2026-04-06T02:45:52.500Z INFO  loaded payment batch=1035 rows=44
+2026-04-06T02:45:54.000Z DEBUG http GET /health 200 7.5ms
+2026-04-06T02:45:55.500Z INFO  Client B totals recomputed
+2026-04-06T02:45:57.000Z INFO  Client C totals recomputed
+2026-04-06T02:45:58.500Z DEBUG http GET /health 200 5.7ms
+2026-04-06T02:46:00.000Z INFO  Client A totals recomputed
+2026-04-06T02:46:01.500Z INFO  cache hit key=rates:95
+2026-04-06T02:46:03.000Z INFO  loaded payment batch=1002 rows=18
+2026-04-06T02:46:04.500Z DEBUG gc pause 2.27ms
+2026-04-06T02:46:06.000Z INFO  Client A totals recomputed
+2026-04-06T02:46:07.500Z INFO  cache hit key=rates:2
+2026-04-06T02:46:09.000Z INFO  loaded payment batch=1006 rows=10
+2026-04-06T02:46:10.500Z INFO  loaded payment batch=1007 rows=44
+2026-04-06T02:46:12.000Z DEBUG http GET /health 200 1.3ms
+2026-04-06T02:46:13.500Z INFO  Client B totals recomputed
+2026-04-06T02:46:15.000Z INFO  loaded payment batch=1010 rows=5
+2026-04-06T02:46:16.500Z INFO  cache hit key=rates:8
+2026-04-06T02:46:18.000Z INFO  loaded payment batch=1012 rows=3
+2026-04-06T02:46:19.500Z DEBUG http GET /health 200 3.5ms
+2026-04-06T02:46:21.000Z DEBUG gc pause 0.00ms
+2026-04-06T02:46:22.500Z WARN  slow query report_totals 615ms (retrying not needed)
+2026-04-06T02:46:24.000Z INFO  cache hit key=rates:13
+2026-04-06T02:46:25.500Z DEBUG http GET /health 200 3.8ms
+2026-04-06T02:46:27.000Z INFO  cache hit key=rates:15
+2026-04-06T02:46:28.500Z INFO  loaded payment batch=1019 rows=36
+2026-04-06T02:46:30.000Z INFO  cache hit key=rates:17
+2026-04-06T02:46:31.500Z DEBUG gc pause 0.57ms
+2026-04-06T02:46:33.000Z DEBUG gc pause 1.43ms
+2026-04-06T02:46:34.500Z INFO  loaded payment batch=1023 rows=39
+2026-04-06T02:46:36.000Z INFO  cache hit key=rates:21
+2026-04-06T02:46:37.500Z DEBUG gc pause 0.13ms
+2026-04-06T02:46:39.000Z WARN  slow query report_totals 735ms (retrying not needed)
+2026-04-06T02:46:40.500Z INFO  cache hit key=rates:24
+2026-04-06T02:46:42.000Z INFO  cache hit key=rates:25
+2026-04-06T02:46:43.500Z DEBUG gc pause 2.31ms
+2026-04-06T02:46:45.000Z DEBUG gc pause 0.30ms
+2026-04-06T02:46:46.500Z INFO  cache hit key=rates:28
+2026-04-06T02:46:48.000Z INFO  cache hit key=rates:29
+2026-04-06T02:46:49.500Z INFO  loaded payment batch=1033 rows=33
+2026-04-06T02:46:51.000Z WARN  slow query report_totals 746ms (retrying not needed)
+2026-04-06T02:46:52.500Z DEBUG gc pause 0.91ms
+2026-04-06T02:46:54.000Z INFO  loaded payment batch=1036 rows=48
+2026-04-06T02:46:55.500Z DEBUG http GET /health 200 9.7ms
+2026-04-06T02:46:57.000Z WARN  slow query report_totals 770ms (retrying not needed)
+2026-04-06T02:46:58.500Z INFO  loaded payment batch=1039 rows=31
+2026-04-06T02:47:00.000Z DEBUG gc pause 2.54ms
+2026-04-06T02:47:01.500Z DEBUG http GET /health 200 6.6ms
+2026-04-06T02:47:03.000Z DEBUG gc pause 1.17ms
+2026-04-06T02:47:04.500Z INFO  Client D totals recomputed
+2026-04-06T02:47:06.000Z WARN  slow query report_totals 972ms (retrying not needed)
+2026-04-06T02:47:07.500Z INFO  loaded payment batch=1005 rows=35
+2026-04-06T02:47:09.000Z WARN  slow query report_totals 610ms (retrying not needed)
+2026-04-06T02:47:10.500Z DEBUG http GET /health 200 6.5ms
+2026-04-06T02:47:12.000Z INFO  Client A totals recomputed
+2026-04-06T02:47:13.500Z INFO  Client B totals recomputed
+2026-04-06T02:47:15.000Z INFO  cache hit key=rates:47
+2026-04-06T02:47:16.500Z INFO  loaded payment batch=1011 rows=44
+2026-04-06T02:47:18.000Z INFO  loaded payment batch=1012 rows=3
+2026-04-06T02:47:19.500Z WARN  slow query report_totals 958ms (retrying not needed)
+2026-04-06T02:47:21.000Z DEBUG http GET /health 200 5.4ms
+2026-04-06T02:47:22.500Z INFO  Client D totals recomputed
+2026-04-06T02:47:24.000Z INFO  cache hit key=rates:53
+2026-04-06T02:47:25.500Z DEBUG gc pause 1.59ms
+2026-04-06T02:47:27.000Z DEBUG gc pause 0.69ms
+2026-04-06T02:47:28.500Z DEBUG http GET /health 200 5.8ms
+2026-04-06T02:47:30.000Z INFO  cache hit key=rates:57
+2026-04-06T02:47:31.500Z WARN  slow query report_totals 703ms (retrying not needed)
+2026-04-06T02:47:33.000Z INFO  cache hit key=rates:59
+2026-04-06T02:47:34.500Z DEBUG gc pause 0.11ms
+2026-04-06T02:47:36.000Z DEBUG http GET /health 200 6.0ms
+2026-04-06T02:47:37.500Z INFO  loaded payment batch=1025 rows=23
+2026-04-06T02:47:39.000Z INFO  cache hit key=rates:63
+2026-04-06T02:47:40.500Z INFO  loaded payment batch=1027 rows=26
+2026-04-06T02:47:42.000Z WARN  slow query report_totals 752ms (retrying not needed)
+2026-04-06T02:47:43.500Z WARN  slow query report_totals 707ms (retrying not needed)
+2026-04-06T02:47:45.000Z DEBUG gc pause 0.04ms
+2026-04-06T02:47:46.500Z WARN  slow query report_totals 925ms (retrying not needed)
+2026-04-06T02:47:48.000Z WARN  slow query report_totals 951ms (retrying not needed)
+2026-04-06T02:47:49.500Z WARN  slow query report_totals 892ms (retrying not needed)
+2026-04-06T02:47:51.000Z WARN  slow query report_totals 636ms (retrying not needed)
+2026-04-06T02:47:52.500Z DEBUG http GET /health 200 4.4ms
+2026-04-06T02:47:54.000Z INFO  Client A totals recomputed
+2026-04-06T02:47:55.500Z WARN  slow query report_totals 874ms (retrying not needed)
+2026-04-06T02:47:57.000Z INFO  Client C totals recomputed
+2026-04-06T02:47:58.500Z INFO  Client D totals recomputed
+2026-04-06T02:48:00.000Z INFO  loaded payment batch=1000 rows=14
+2026-04-06T02:48:01.500Z DEBUG gc pause 1.14ms
+2026-04-06T02:48:03.000Z INFO  cache hit key=rates:79
+2026-04-06T02:48:04.500Z DEBUG http GET /health 200 2.7ms
+2026-04-06T02:48:06.000Z WARN  slow query report_totals 603ms (retrying not needed)
+2026-04-06T02:48:07.500Z INFO  loaded payment batch=1005 rows=21
+2026-04-06T02:48:09.000Z INFO  Client C totals recomputed
+2026-04-06T02:48:10.500Z DEBUG http GET /health 200 8.6ms
+2026-04-06T02:48:12.000Z INFO  Client A totals recomputed
+2026-04-06T02:48:13.500Z WARN  slow query report_totals 810ms (retrying not needed)
+2026-04-06T02:48:15.000Z DEBUG http GET /health 200 4.0ms
+2026-04-06T02:48:16.500Z INFO  Client D totals recomputed
+2026-04-06T02:48:18.000Z DEBUG gc pause 2.17ms
+2026-04-06T02:48:19.500Z INFO  cache hit key=rates:90
+2026-04-06T02:48:21.000Z DEBUG gc pause 0.62ms
+2026-04-06T02:48:22.500Z DEBUG gc pause 1.76ms
+2026-04-06T02:48:24.000Z INFO  cache hit key=rates:93
+2026-04-06T02:48:25.500Z DEBUG http GET /health 200 4.3ms
+2026-04-06T02:48:27.000Z WARN  slow query report_totals 758ms (retrying not needed)
+2026-04-06T02:48:28.500Z INFO  Client D totals recomputed
+2026-04-06T02:48:30.000Z INFO  loaded payment batch=1020 rows=12
+2026-04-06T02:48:31.500Z INFO  Client B totals recomputed
+2026-04-06T02:48:33.000Z INFO  loaded payment batch=1022 rows=24
+2026-04-06T02:48:34.500Z INFO  Client D totals recomputed
+2026-04-06T02:48:36.000Z DEBUG gc pause 0.44ms
+2026-04-06T02:48:37.500Z INFO  Client B totals recomputed
+2026-04-06T02:48:39.000Z DEBUG http GET /health 200 1.1ms
+2026-04-06T02:48:40.500Z INFO  cache hit key=rates:7
+2026-04-06T02:48:42.000Z INFO  cache hit key=rates:8
+2026-04-06T02:48:43.500Z DEBUG gc pause 0.14ms
+2026-04-06T02:48:45.000Z INFO  Client C totals recomputed
+2026-04-06T02:48:46.500Z INFO  loaded payment batch=1031 rows=3
+2026-04-06T02:48:48.000Z INFO  loaded payment batch=1032 rows=31
+2026-04-06T02:48:49.500Z DEBUG http GET /health 200 5.3ms
+2026-04-06T02:48:51.000Z INFO  Client C totals recomputed
+2026-04-06T02:48:52.500Z DEBUG http GET /health 200 4.6ms
+2026-04-06T02:48:54.000Z DEBUG http GET /health 200 1.0ms
+2026-04-06T02:48:55.500Z DEBUG http GET /health 200 5.0ms
+2026-04-06T02:48:57.000Z DEBUG http GET /health 200 1.6ms
+2026-04-06T02:48:58.500Z INFO  cache hit key=rates:19
+2026-04-06T02:49:00.000Z INFO  Client A totals recomputed
+2026-04-06T02:49:01.500Z INFO  Client B totals recomputed
+2026-04-06T02:49:03.000Z INFO  cache hit key=rates:22
+2026-04-06T02:49:04.500Z DEBUG gc pause 0.10ms
+2026-04-06T02:49:06.000Z INFO  cache hit key=rates:24
+2026-04-06T02:49:07.500Z INFO  loaded payment batch=1005 rows=6
+2026-04-06T02:49:09.000Z INFO  cache hit key=rates:26
+2026-04-06T02:49:10.500Z DEBUG gc pause 2.63ms
+2026-04-06T02:49:12.000Z INFO  Client A totals recomputed
+2026-04-06T02:49:13.500Z INFO  Client B totals recomputed
+2026-04-06T02:49:15.000Z DEBUG gc pause 2.01ms
+2026-04-06T02:49:16.500Z INFO  Client D totals recomputed
+2026-04-06T02:49:18.000Z INFO  cache hit key=rates:32
+2026-04-06T02:49:19.500Z INFO  cache hit key=rates:33
+2026-04-06T02:49:21.000Z INFO  cache hit key=rates:34
+2026-04-06T02:49:22.500Z DEBUG http GET /health 200 9.1ms
+2026-04-06T02:49:24.000Z INFO  Client A totals recomputed
+2026-04-06T02:49:25.500Z DEBUG http GET /health 200 8.3ms
+2026-04-06T02:49:27.000Z DEBUG gc pause 2.68ms
+2026-04-06T02:49:28.500Z DEBUG gc pause 0.76ms
+2026-04-06T02:49:30.000Z INFO  Client A totals recomputed
+2026-04-06T02:49:31.500Z DEBUG http GET /health 200 8.1ms
+2026-04-06T02:49:33.000Z DEBUG gc pause 0.04ms
+2026-04-06T02:49:34.500Z INFO  cache hit key=rates:43
+2026-04-06T02:49:36.000Z INFO  Client A totals recomputed
+2026-04-06T02:49:37.500Z DEBUG gc pause 1.89ms
+2026-04-06T02:49:39.000Z DEBUG gc pause 0.40ms
+2026-04-06T02:49:40.500Z DEBUG http GET /health 200 4.4ms
+2026-04-06T02:49:42.000Z DEBUG http GET /health 200 8.9ms
+2026-04-06T02:49:43.500Z WARN  slow query report_totals 933ms (retrying not needed)
+2026-04-06T02:49:45.000Z DEBUG gc pause 1.13ms
+2026-04-06T02:49:46.500Z WARN  slow query report_totals 733ms (retrying not needed)
+2026-04-06T02:49:48.000Z DEBUG gc pause 1.05ms
+2026-04-06T02:49:49.500Z INFO  cache hit key=rates:53
+2026-04-06T02:49:51.000Z INFO  Client C totals recomputed
+2026-04-06T02:49:52.500Z DEBUG gc pause 0.80ms
+2026-04-06T02:49:54.000Z INFO  Client A totals recomputed
+2026-04-06T02:49:55.500Z DEBUG gc pause 1.58ms
+2026-04-06T02:49:57.000Z DEBUG gc pause 1.75ms
+2026-04-06T02:49:58.500Z INFO  Client D totals recomputed

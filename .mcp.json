@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tax-calendar": {
+      "command": "node",
+      "args": ["${CLAUDE_PROJECT_DIR:-.}/mcp/tax-calendar.mjs"]
+    }
+  }
+}

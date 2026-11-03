@@ -1,0 +1,82 @@
+{
+  "usage": {
+    "input_tokens": 6,
+    "cache_creation_input_tokens": 87232,
+    "cache_read_input_tokens": 116098,
+    "output_tokens": 1054,
+    "output_tokens_details": {
+      "thinking_tokens": 196
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 87232,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 586,
+        "cache_read_input_tokens": 59121,
+        "cache_creation_input_tokens": 50751,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 50751
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "modelUsage": {
+    "claude-opus-5-5": {
+      "inputTokens": 6,
+      "outputTokens": 1054,
+      "cacheReadInputTokens": 116098,
+      "cacheCreationInputTokens": 87232,
+      "webSearchRequests": 0,
+      "costUSD": 0.7421796,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 196,
+      "cacheCreationEphemeral5mInputTokens": 0,
+      "cacheCreationEphemeral1hInputTokens": 87232,
+      "canonicalModel": "claude-opus-5-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "num_turns": 4,
+  "duration_ms": 17103,
+  "subagent_stats": {
+    "spawned": 0,
+    "requested": {
+      "background": 0,
+      "foreground": 0,
+      "unset": 0
+    },
+    "started_in_background": 0,
+    "max_depth": 0,
+    "spawned_by_subagents": 0,
+    "completed": 0,
+    "failed": 0,
+    "killed": {
+      "parent": 0,
+      "user": 0,
+      "system": 0
+    },
+    "refused": {
+      "depth_limit": 0,
+      "concurrency_limit": 0,
+      "budget": 0
+    },
+    "by_type": {}
+  },
+  "is_error": false,
+  "result": "I read all 2,000 lines of `logs/report-run.log`. There is one `ERROR` line, at `logs/report-run.log:1424`:\n\n```\n2026-04-06T02:35:34.500Z ERROR year-end check failed: Client B payment paidOn=2026-04-05 filed under 2026/27, expected 2025/26 (taxYear boundary)\n```\n\n**What went wrong:** a payment dated 5 April 2026 was filed in the wrong tax year. 5 April is the last day of the old tax year, so it belongs in `2025/26`. The report put it in `2026/27`. The tax-year calculation is treating 5 April as the start of the new year when the new year should start on 6 April. My guess is a `>=` / `>` off-by-one, or a comparison against 5 April where it should be against 6 April, in `taxYear()`. I haven't opened the source, so I haven't confirmed that.\n\n**Everything else is noise:**\n- **`WARN slow query report_totals` (600\u20131000ms):** these appear all through the run, and each one says \"retrying not needed\". None of them caused the failure.\n- **Other lines:** `INFO` totals recomputed, cache hits and batch loads, `DEBUG` gc pauses and `/health` 200s. All routine.\n- **The run continued after the error.** Logging carries on normally until 02:49:58 with no further errors, so the check failure didn't stop the job. But the report's year-end totals for that payment are probably wrong: it's counted in 2026/27 instead of 2025/26.\n\nI didn't edit any files."
+}
